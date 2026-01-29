@@ -37,6 +37,7 @@
 - **29.09.2025**: Cytologia kontrolna - pojedyncze bakterie, komórki zapalne, **pojedyncze komórki atypowe** - [Podsumowanie GoldenVet](https://drive.google.com/file/d/1a9Jzw0eBVkj17FoAqpqbI30y3xQRq3DZ/view?usp=drivesdk)
 - **16.12.2025**: Biopsja trepanowa ze zmienionej skóry w znieczuleniu ogólnym - [Raport endoskopia](https://drive.google.com/file/d/1TTBRWY-vsmuw71NFM_yC1MSvzkDEkKPj/view?usp=drivesdk)
 - **27.01.2026**: Wynik histopatologii - **RAK IN SITU TYPU BOWENOIDNEGO** - [Histopatologia](https://drive.google.com/file/d/1z8WjvMwm7kS_0TaGxO2DLfAN_fkO00i9/view?usp=drivesdk), [Podsumowanie GoldenVet](https://drive.google.com/file/d/1a9Jzw0eBVkj17FoAqpqbI30y3xQRq3DZ/view?usp=drivesdk)
+- **29.01.2026**: Konsultacja onkologiczna (NeoVet) - potwierdzenie raka in situ typu bowenoidnego, rekomendacje CISH na FcaPV-2, możliwość progresji do raka kolczystokomórkowego - [Konsultacja onkologiczna](https://drive.google.com/file/d/1-SPo1d2gm6434sb32Ksi9ocRIvlI1hek/view?usp=drivesdk)
 
 *Podsumowanie*
 - **Status**: Zdiagnozowany styczeń 2026, zmiany obserwowane od co najmniej lipca 2025
