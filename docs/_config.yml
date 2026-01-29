@@ -1,11 +1,11 @@
-title: "Charlie - Medical History"
-description: "Comprehensive veterinary medical documentation for Charlie (Egypt Mau, born 2015)"
-author: "Charlie's Guardians"
+title: "Charlie - Historia Medyczna"
+description: "Podsumowanie weterynaryjne Charliego (Egypt Mau, urodzony 2015)"
+author: "Marcin Wojciechowski"
 lang: pl
 url: "https://Wojciechowski-Marcin.github.io/charlie-vet-page"
 
 # Theme
-theme: jekyll-theme-minimal
+remote_theme: just-the-docs/just-the-docs
 
 # Build settings
 markdown: kramdown
