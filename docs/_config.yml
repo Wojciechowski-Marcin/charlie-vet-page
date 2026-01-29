@@ -1,0 +1,33 @@
+title: "Charlie - Medical History"
+description: "Comprehensive veterinary medical documentation for Charlie (Egypt Mau, born 2015)"
+author: "Charlie's Guardians"
+lang: pl
+url: "https://Wojciechowski-Marcin.github.io/charlie-vet-page"
+
+# Theme
+theme: jekyll-theme-minimal
+
+# Build settings
+markdown: kramdown
+kramdown:
+  auto_ids: true
+  hard_wrap: false
+
+# Plugins
+plugins:
+  - jekyll-relative-links
+  - jekyll-feed
+
+relative_links:
+  enabled: true
+  collections: true
+
+# Exclude files from processing
+exclude:
+  - "*.py"
+  - "pdf-mapping.json"
+  - "scripts/"
+  - "README.md"
+  - "CONTRIBUTING.md"
+  - "Gemfile"
+  - ".gitignore"

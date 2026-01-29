@@ -1,0 +1,26 @@
+# Prevent accidental inclusion of PDF files (private documents)
+*.pdf
+dokumentacja/
+
+# Build artifacts
+_site/
+.jekyll-cache/
+.jekyll-metadata
+Gemfile.lock
+
+# IDE/Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
