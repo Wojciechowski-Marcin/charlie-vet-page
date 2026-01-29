@@ -10,7 +10,7 @@
 | **Płeć**           | Samiec kastrowany                                         |
 | **Data urodzenia** | Około styczeń 2015                                        |
 | **Aktualny wiek**  | 10 lat 2 miesiące (stan na styczeń 2026)                  |
-| **Masa ciała**     | 4,5-4,7 kg (wzrost z 3,2-3,8 kg w 2023 do aktualnej wagi) |
+| **Masa ciała**     | **3,95 kg** (spadek z 4,5-4,7 kg - stan na 29.01.2026) ⚠️ |
 | **Umaszczenie**    | Smoky grey / bura                                         |
 
 ---
@@ -37,17 +37,23 @@
 - **29.09.2025**: Cytologia kontrolna - pojedyncze bakterie, komórki zapalne, **pojedyncze komórki atypowe** - [Podsumowanie GoldenVet](https://drive.google.com/file/d/1a9Jzw0eBVkj17FoAqpqbI30y3xQRq3DZ/view?usp=drivesdk)
 - **16.12.2025**: Biopsja trepanowa ze zmienionej skóry w znieczuleniu ogólnym - [Raport endoskopia](https://drive.google.com/file/d/1TTBRWY-vsmuw71NFM_yC1MSvzkDEkKPj/view?usp=drivesdk)
 - **27.01.2026**: Wynik histopatologii - **RAK IN SITU TYPU BOWENOIDNEGO** - [Histopatologia](https://drive.google.com/file/d/1z8WjvMwm7kS_0TaGxO2DLfAN_fkO00i9/view?usp=drivesdk), [Podsumowanie GoldenVet](https://drive.google.com/file/d/1a9Jzw0eBVkj17FoAqpqbI30y3xQRq3DZ/view?usp=drivesdk)
-- **29.01.2026**: Konsultacja onkologiczna (NeoVet) - potwierdzenie raka in situ typu bowenoidnego, rekomendacje CISH na FcaPV-2, możliwość progresji do raka kolczystokomórkowego - [Konsultacja onkologiczna](https://drive.google.com/file/d/1-SPo1d2gm6434sb32Ksi9ocRIvlI1hek/view?usp=drivesdk)
+- **29.01.2026**: Konsultacja onkologiczna NeoVet (lek. wet. Imane Sghir) - [Konsultacja onkologiczna](https://drive.google.com/file/d/1-SPo1d2gm6434sb32Ksi9ocRIvlI1hek/view?usp=drivesdk):
+  - **Waga: 3,95 kg** - znaczny spadek (~12-15% masy ciała) ⚠️
+  - Miejsce po usunięciu zmiany na grzbiecie - brak wyczuwalnych nieprawidłowości
+  - **Nowe zmiany**: zmiana brodawkowata w okolicy potylicznej, dwie zmiany pod żuchwą na szyi (jedna ostatnio urosła)
+  - Stan zapalny przyzębia
+  - **Wskazanie do RTG klatki piersiowej i USG jamy brzusznej** ze względu na utratę masy ciała
+  - Kontakt mailowy ws. badania CISH na FcaPV-2
 
 *Podsumowanie*
-- **Status**: Zdiagnozowany styczeń 2026, zmiany obserwowane od co najmniej lipca 2025
-- **Lokalizacja**: Skóra grzbietu (szyi i karku)
+- **Status**: Zdiagnozowany styczeń 2026, zmiany obserwowane od co najmniej lipca 2025, nowe/rosnące zmiany stwierdzone 29.01.2026
+- **Lokalizacja**: Skóra grzbietu (szyi i karku), okolica potyliczna, pod żuchwą
 - **Status marginesów**: Guz przy marginesie bocznym - niepełne wycięcie
-- **Następne kroki**:
-  - Konsultacja onkologiczna (zalecona ze względu na możliwą potrzebę chemioterapii)
-  - Rozważyć CISH na FcaPV-2 (na dostarczonym materiale)
-  - Prawdopodobnie wymaga szerszego wycięcia chirurgicznego
-  - Monitorować pod kątem dodatkowych zmian (mogą być wieloogniskowe)
+- **PILNE - Następne kroki**:
+  - ⚠️ RTG klatki piersiowej i USG jamy brzusznej (wskazane ze względu na utratę masy ciała)
+  - Badanie CISH na FcaPV-2 (decyzja po kontakcie mailowym)
+  - Monitorować pod kątem progresji zmian (jedna zmiana pod żuchwą urosła)
+  - Rozważyć dalsze wycięcie chirurgiczne
 
 ### 2. Przewlekłe Zapalenie Zatok/Oskrzeli
 *Źródła: [Endoskopia 29.11.2024](https://drive.google.com/file/d/1VEo_LOTZe93oXq_K-6P8_vy39q-wmFtX/view?usp=drivesdk), [Mycoplasma 19.12.2025](https://drive.google.com/file/d/1PSzra36OYdkiMwxAUiaxkXxThXijjPIT/view?usp=drivesdk)*
@@ -129,6 +135,80 @@
 | 24.03.2023 | 4,29      | 2,24      | 1,56      | Poprawa                        | [Zdrowy Pupil](https://drive.google.com/file/d/100BztocvdYfyKLB-mh3Ly3ZM8cjgbvHR/view?usp=drivesdk) |
 | 26.11.2024 | 7,17      | 4,49      | 1,85      | Najlepszy ostatnio             | [NeoVet](https://drive.google.com/file/d/168Za_7dMCq3rbJgUJNkdSSEDUGZ_z6tG/view?usp=drivesdk)               |
 | 27.11.2025 | 3,55      | 1,79      | 1,38      | Przed biopsją                  | [Morfologia](https://drive.google.com/file/d/1Q9mUHmzC6Jr02uxGzuSA0zmOdPwWJOo-/view?usp=drivesdk)                            |
+
+**Zakresy Normy:**
+- **WBC (Białe krwinki)**: 6-11 G/l (reference range)
+- **NEU (Neutrofile)**: 3-11 G/l
+- **LYM (Limfocyty)**: 1-4 G/l
+
+**Analiza Trendu:**
+Charlie wykazuje przewlekłą **leukopeniię/neutropeniię** - wartości WBC i NEU poniżej normy przez większość okresu obserwacji. Najlepsze wyniki (7,17 WBC, 4,49 NEU) w listopadzie 2024, znaczny spadek w listopadzie 2025.
+
+```mermaid
+graph TD
+    A["<b>TRENDY BIAŁYCH KRWINEK (2022-2025)</b><br/>Norma: WBC 6-11 | NEU 3-11 | LYM 1-4 G/l"]
+
+    subgraph chart["📊 WYKRES TRENDÓW"]
+        B["<b>Oś X:</b> Czas (październik 2022 - listopad 2025)<br/><b>Oś Y:</b> Wartość (G/l)<br/><br/>
+        <b style='color:red'>━━━ WBC</b> (Białe krwinki)<br/>
+        <b style='color:orange'>━━━ NEU</b> (Neutrofile)<br/>
+        <b style='color:blue'>━━━ LYM</b> (Limfocyty)<br/>
+        <b style='color:green'>░░░ NORMA MIN/MAX</b>"]
+    end
+
+    subgraph oct22["Październik 2022"]
+        C["WBC: 4,9 ⚠️<br/>NEU: 4,0 ✓<br/>LYM: 0,8 ⚠️"]
+    end
+
+    subgraph nov22["Listopad 2022"]
+        D["WBC: 4,3 ⚠️<br/>NEU: 2,6 ⚠️<br/>LYM: 1,2 ✓"]
+    end
+
+    subgraph dec22["Grudzień 2022<br/>(Objawy neuro)"]
+        E["WBC: 2,89 🔴<br/>NEU: 1,64 🔴<br/>LYM: 0,94 ⚠️"]
+    end
+
+    subgraph jan23["Styczeń 2023<br/>(Na steroidach)"]
+        F["WBC: 5,11 ⚠️<br/>NEU: 4,10 ✓<br/>LYM: 0,90 ⚠️"]
+    end
+
+    subgraph mar23["Marzec 2023<br/>(Spadek po steroidach)"]
+        G["WBC: 2,28 🔴<br/>NEU: 1,38 🔴<br/>LYM: 0,61 🔴"]
+    end
+
+    subgraph mar23b["Marzec 2023<br/>(Poprawa)"]
+        H["WBC: 4,29 ⚠️<br/>NEU: 2,24 ⚠️<br/>LYM: 1,56 ✓"]
+    end
+
+    subgraph nov24["Listopad 2024<br/>(NAJLEPSZE)"]
+        I["WBC: 7,17 ✓<br/>NEU: 4,49 ✓<br/>LYM: 1,85 ✓"]
+    end
+
+    subgraph nov25["Listopad 2025<br/>(Przed biopsją)"]
+        J["WBC: 3,55 ⚠️<br/>NEU: 1,79 🔴<br/>LYM: 1,38 ✓"]
+    end
+
+    subgraph assessment["📋 OCENA"]
+        K["<b>Główny problem:</b> Przewlekła neutropenia<br/>
+        <b>Trend:</b> Ogólnie niska, z krótkim poprawieniem w 2024<br/>
+        <b>Ryzyko:</b> Zwiększona podatność na infekcje<br/>
+        <b>Znaczenie:</b> Monitorować regularnie"]
+    end
+
+    A --> chart
+    chart --> oct22 --> nov22 --> dec22 --> jan23 --> mar23 --> mar23b --> nov24 --> nov25
+    nov25 --> assessment
+
+    style C fill:#ffe6e6
+    style D fill:#ffe6e6
+    style E fill:#ff9999
+    style F fill:#ffe6e6
+    style G fill:#ff9999
+    style H fill:#ffe6e6
+    style I fill:#e6ffe6
+    style J fill:#ffe6e6
+    style assessment fill:#fff4e6
+```
 
 ### Trendy Funkcji Wątroby
 *Źródła: [Seria wyników krwi 2022-2025](https://drive.google.com/file/d/17dsHOQcOeLGIgVN3zy74won2hq2OpKle/view?usp=drivesdk)*
@@ -612,6 +692,39 @@
 - Pobrano wycinek za pomocą trepanu ze zmienionej skóry na grzbiecie
 - Założono 2 szwy niewchłanialne (zdjęte 29.12.2025, rana zagojona prawidłowo)
 
+### Styczeń 2026: Konsultacja Onkologiczna
+*Źródło: [Konsultacja onkologiczna 29.01.2026](https://drive.google.com/file/d/1-SPo1d2gm6434sb32Ksi9ocRIvlI1hek/view?usp=drivesdk)*
+
+**Konsultacja onkologiczna NeoVet (29.01.2026):**
+Lekarz prowadzący: lek. wet. Imane Sghir
+
+**Parametry:**
+- Temperatura: 37,4°C (prawidłowa)
+- **Waga: 3,95 kg** - znaczny spadek z 4,5-4,7 kg (~12-15% masy ciała) ⚠️
+
+**Badanie kliniczne:**
+- Błony śluzowe różowe, CRT < 2 s.
+- Węzły chłonne dostępne niepowiększone
+- Jama brzuszna miękka, niebolesna
+- Stan zapalny przyzębia, bez widocznych nadżerek
+- Okrywa włosowa prawidłowa
+
+**Ocena zmian skórnych:**
+- Miejsce po usunięciu zmiany na grzbiecie - brak wyczuwalnych nieprawidłowości
+- **Okolica potyliczna**: zmiana brodawkowata
+- **Pod żuchwą na szyi**: dwie zmiany (jedna ostatnio urosła)
+
+**Wywiad dodatkowy:**
+- Przewlekły katar - na doksycyklinie było lepiej, 3-4 tygodnie po zakończeniu powraca wypływ z nosa
+- Nie jest inhalowany
+- Podejrzenie IBD
+
+**Zalecenia:**
+1. **Wskazanie do RTG klatki piersiowej i USG jamy brzusznej** - ze względu na znaczną utratę masy ciała
+2. Kontakt mailowy w poniedziałek ws. wykonania badania CISH na FcaPV-2
+
+**Diagnoza:** Rak in situ typu bowenoidnego (Bowenoid-type carcinoma in situ) - potwierdzona, z nowymi/rosnącymi zmianami
+
 ---
 
 ## Historia Chirurgiczna/Proceduralna
@@ -695,6 +808,7 @@
 ### Dokumentacja Onkologiczna
 40. [2025_08_01 - badanie cytologiczne.pdf](https://drive.google.com/file/d/19GmfMXjmXQejqtEIgM8NsP3X7zSAqPMv/view?usp=drivesdk) - Cytologia zmiany skórnej
 41. [2025_12_18 - wynik histopatologia rak.pdf](https://drive.google.com/file/d/1z8WjvMwm7kS_0TaGxO2DLfAN_fkO00i9/view?usp=drivesdk) - Diagnoza raka
+42. [2026_01_29 - konsultacja onkologiczna.pdf](https://drive.google.com/file/d/1-SPo1d2gm6434sb32Ksi9ocRIvlI1hek/view?usp=drivesdk) - Konsultacja onkologiczna NeoVet
 
 ### Pozostałe Badania
 42. [2025_09_01 - badanie moczu.pdf](https://drive.google.com/file/d/1uBiTqsrsVbPtZZobGxgRTV64dkroIMSZ/view?usp=drivesdk) - Badanie moczu
@@ -723,9 +837,9 @@
 
 | Pole | Wartość |
 |------|---------|
-| Ostatnia aktualizacja | 28 stycznia 2026 |
+| Ostatnia aktualizacja | 29 stycznia 2026 |
 | Na podstawie dokumentacji z okresu | Październik 2022 - Styczeń 2026 |
-| Liczba dokumentów źródłowych | 58 plików PDF |
+| Liczba dokumentów źródłowych | 59 plików PDF |
 
 ---
 
