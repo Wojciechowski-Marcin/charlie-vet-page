@@ -13,6 +13,11 @@ kramdown:
   auto_ids: true
   hard_wrap: false
 
+search_enabled: false
+callouts:
+  warning:
+    title: Warning
+    color: yellow
 # Plugins
 plugins:
   - jekyll-relative-links
