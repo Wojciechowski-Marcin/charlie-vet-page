@@ -3,7 +3,7 @@ title: "Strona Główna"
 nav_order: 1
 ---
 
-{: .warning-title }
+{: .warning }
 >📋 Dostęp do dokumentów
 >
 >Dokumenty medyczne do których odnośniki znajdują się na tej stronie znajdują się na prywatnym koncie Google Drive, aby chronić prywatność pacjenta.

@@ -53,13 +53,56 @@ nav_order: 2
   - Monitorować pod kątem progresji zmian (jedna zmiana pod żuchwą urosła)
   - Rozważyć dalsze wycięcie chirurgiczne
 
-### 2. Przewlekłe Zapalenie Zatok/Oskrzeli
-*Źródła: [Endoskopia 29.11.2024](https://drive.google.com/file/d/1VEo_LOTZe93oXq_K-6P8_vy39q-wmFtX/view?usp=drivesdk), [Mycoplasma 19.12.2025](https://drive.google.com/file/d/1PSzra36OYdkiMwxAUiaxkXxThXijjPIT/view?usp=drivesdk)*
+### 2. Przewlekłe Zapalenie Zatok/Nosa (Priorytet: ŚREDNI)
 
-- **Status**: Trwające, ale poprawione
-- **Kluczowe znaleziska**: Mycoplasma wyleczona (grudzień 2025), ale obecne przewlekłe zmiany strukturalne
-- **Postępowanie**: Leczenie objawowe, mukolityki, wsparcie odporności
-- **Uwaga**: Możliwe przewlekłe zmiany po przebytym kocim katarze wirusowym
+**Pełna chronologia problemu oddechowego w historii pacjenta:**
+
+*Wczesna historia (lipiec 2023 - sierpień 2024) - Zdrowy Pupil:*
+- **Lipiec 2023**: Pierwsze objawy GDO - trudności oddychania, kichanie - [Podsumowanie ZdrowyPupil](https://drive.google.com/file/d/1fr6toKDIdb-aQDgQW2bCDSr4FWRTaCLR/view?usp=drivesdk)
+- **Sierpień 2023**: Wizyta z powodu GDO, antybiotyk (Synulox/Kesium) - przejściowa poprawa - [Podsumowanie ZdrowyPupil](https://drive.google.com/file/d/1fr6toKDIdb-aQDgQW2bCDSr4FWRTaCLR/view?usp=drivesdk)
+- **Listopad 2023**: Kichanie ropą, kaszel; posiew z nosa - brak wzrostu bakterii tlenowych - [Podsumowanie ZdrowyPupil](https://drive.google.com/file/d/1fr6toKDIdb-aQDgQW2bCDSr4FWRTaCLR/view?usp=drivesdk)
+- **Luty-Sierpień 2024**: Nawracający katar, wielokrotne kursy antybiotyków - [Podsumowanie ZdrowyPupil](https://drive.google.com/file/d/1fr6toKDIdb-aQDgQW2bCDSr4FWRTaCLR/view?usp=drivesdk)
+
+*Intensywna diagnostyka i leczenie (wrzesień 2024 - styczeń 2026) - GoldenVet:*
+- **25.09.2024**: Pierwsza wizyta GoldenVet - kaszel i katar ~2 tygodnie, ropna wydzielina z lewego nozdrza, powiększone węzły chłonne (zagardłowe i podkolanowe), pobranie wymazu - [Wizyta GoldenVet](https://drive.google.com/file/d/1t9FEjiZTdKoEceoywBc0jb49jR1dLZNn/view?usp=drivesdk)
+- **04.10.2024**: Wynik posiewu - **Serratia marcescens**; wdrożono Marbocyl 20 mg - [Wizyta GoldenVet](https://drive.google.com/file/d/1u-Odh7PrzsaF0xtPj0hkNUl-oY8r2sAH/view?usp=drivesdk)
+- **10.10.2024**: Brak poprawy na antybiotyku; **podejrzenie przebudowy struktur GDO**; wdrożono nebulizację Nebbud - [Wizyta GoldenVet](https://drive.google.com/file/d/1rMzd2djMwGZ57-7TyV_P48jwZXpdzOSS/view?usp=drivesdk)
+- **25.11.2024**: Badanie kardiologiczne (NeoVet) - kwalifikacja do znieczulenia - [Wyniki kardio](https://drive.google.com/file/d/15LP0Yy8Wbhjk4goRmE6J9AJBFUyOieDJ/view?usp=drivesdk)
+- **29.11.2024**: **Pierwsza rynoskopia i bronchoskopia** - [Endoskopia](https://drive.google.com/file/d/1VEo_LOTZe93oXq_K-6P8_vy39q-wmFtX/view?usp=drivesdk):
+  - Jama nosowa: Delikatne przekrwienie, wydzielina śluzowa (więcej po stronie lewej)
+  - Nozdrza tylne: **Guzkowy przerost limfoidalny**, wyraźne przekrwienie
+  - Oskrzela lewe: Przekrwienie, **światło płatów częściowo zamknięte wydzieliną śluzową**
+  - Cytologia: Liczne zdegenerowane neutrofile, makrofagi, bakterie typu ziarniaka
+- **04.12.2024**: Wyniki mikrobiologiczne - **Mycoplasma spp. PCR DODATNI**, Actinomyces sp. (+), Chlamydia felis (-) - [Mycoplasma](https://drive.google.com/file/d/1MX6WmAUtlnElkM1hrmBMFigY1WX2-roB/view?usp=drivesdk)
+- **06.12.2024**: Wdrożono azytromycynę (Sumamed) na 3 tygodnie - [Wizyta GoldenVet](https://drive.google.com/file/d/1-s8M3XX7ZI_T_hmOfAz3eDMuBPEALOSw/view?usp=drivesdk)
+- **08.01.2025**: Nawrót 2 dni po zakończeniu antybiotyku - kichanie, surowiczny wypływ - [Wizyta GoldenVet](https://drive.google.com/file/d/1vceKgy9sB8GzhjDTMj4lIMLW7RghhLFl/view?usp=drivesdk)
+- **18.02.2025**: Wymaz kontrolny - brak wzrostu bakterii/grzybów, ale cytologia wykazuje **bardzo dużą ilość zdegenerowanych neutrofili i bakterii**; zmiana na doksycyklinę - [Wymaz z nosa](https://drive.google.com/file/d/1y6eaTEPWTG8ncR10ZapWZCGe-b5iiuVF/view?usp=drivesdk)
+- **11.04.2025**: **Znaczący postęp** - 5 tygodni bez objawów na doksycyklinie (7 tygodni terapii) - [Wizyta GoldenVet](https://drive.google.com/file/d/1JTBWCmybxrloyYgNy8izIttNLAj4u1MH/view?usp=drivesdk)
+- **05.05.2025**: Nawrót ~3 tygodnie po zakończeniu doksycykliny - kaszel 2×/dzień, kichanie; podejrzenie herpeswirozy (FHV-1) - [Wizyta GoldenVet](https://drive.google.com/file/d/1oSTR_effojyIzJGWIoxc3148wvNTFVlR/view?usp=drivesdk)
+- **22.07.2025**: Katar wyciszony na sterydzie (Hedylon) - [Rozmowa tel. GoldenVet](https://drive.google.com/file/d/1kYEohfjy1RrdBzq-FQhMcaTNPWrv4f8R/view?usp=drivesdk)
+- **27.11.2025**: Historia: "Przez całe życie ma problemy z oddychaniem, antybiotyk przestaje działać" - [Wizyta GoldenVet](https://drive.google.com/file/d/1v3c_4q-ekVib24ummMZKkCPrl0XxqOIk/view?usp=drivesdk)
+- **16.12.2025**: **Kontrolna rynoskopia** - [Raport endoskopia](https://drive.google.com/file/d/1TTBRWY-vsmuw71NFM_yC1MSvzkDEkKPj/view?usp=drivesdk):
+  - **Lewe nozdrze**: Wejście zwężone, wzmocniony rysunek naczyń, bardzo liczna wydzielina śluzowa, małżowina lekko przebudowana z drobnymi guzkami (zmiany pozapalne)
+  - **Prawe nozdrze**: Mniejsza ilość wydzieliny, brak obrzęku i przekrwienia
+  - Brak jednorodnej zmiany rozrostowej typu polipa
+- **19.12.2025**: Wyniki mikrobiologiczne - **Mycoplasma spp. PCR UJEMNY** (wyleczona!), flora fizjologiczna, brak patogenów - [Mycoplasma](https://drive.google.com/file/d/1PSzra36OYdkiMwxAUiaxkXxThXijjPIT/view?usp=drivesdk)
+
+*Podsumowanie:*
+- **Status**: Przewlekły, nawracający; Mycoplasma wyleczona (grudzień 2025), ale obecne **trwałe zmiany strukturalne**
+- **Lokalizacja**: Głównie lewe nozdrze (zwężenie wejścia, przebudowa małżowiny)
+- **Etiologia**: Wieloczynnikowa - najprawdopodobniej przewlekłe następstwa kociego kataru wirusowego, możliwy udział FHV-1 (nie testowano)
+- **Zidentyfikowane patogeny**:
+  - Serratia marcescens (październik 2024)
+  - Mycoplasma spp. (grudzień 2024 → wyleczona grudzień 2025)
+  - Actinomyces sp. (grudzień 2024, oportunistyczny)
+- **Zmiany strukturalne** (potwierdzone endoskopowo):
+  - Zwężenie wejścia do lewego nozdrza
+  - Guzkowy przerost limfoidalny nozdrzech tylnych
+  - Przebudowa małżowiny nosowej lewej (drobne guzki pozapalne)
+  - Zwiększona sekrecja śluzowa
+- **Aktualne leczenie**: Rhinobiom (probiotyk do nosa), Flegamina (mukolityk), FloraBalance
+- **Prognoza**: Pełne wyleczenie mało prawdopodobne ze względu na trwałe zmiany strukturalne; celem jest kontrola objawów i zapobieganie zaostrzeniom
+- **Uwaga**: Herpeswiroza kotów (FHV-1) nigdy nie była badana PCR, może być współudziałowcem
 
 ### 3. Zaburzenie Neurologiczne (Stabilne)
 *Źródła: [MRI 28.12.2022](https://drive.google.com/file/d/1e7d9912P4zOgCHoSFpl8WxGRk0HLaiGt/view?usp=drivesdk), [Konsultacje NeuroTeam 2022-2023](https://drive.google.com/file/d/10-g0nG-ljxH4vgqwovn0jGZFYXFJ2TKV/view?usp=drivesdk)*
