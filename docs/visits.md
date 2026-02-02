@@ -258,6 +258,32 @@ Lekarz prowadzący: lek. wet. Imane Sghir
 
 **Znaczenie kliniczne**: Niedobór B12 potwierdza patologię dystalnej części jelita cienkiego zgodną z IBD, możliwy SIBO
 
+**Badania krwi (26.04.2023):**
+*Źródło: [Wyniki krwi 26.04.2023](https://drive.google.com/file/d/11aIi4Iu0WeyDa3trzJ2Cj55GYzH3H-qj/view?usp=drivesdk)*
+
+**Morfologia krwi:**
+- **Leukocyty (WBC)**: 4,5 G/l (NISKIE, ref: 5-19) - utrzymująca się leukopenia
+- **Granulocyty (Neutrofile)**: 3,1 G/l (NISKIE, ref: 1,93-14,25)
+- **Eozynofile**: 1,1% (NISKIE, ref: 2-12)
+- Limfocyty: 1,3 10^9/l (prawidłowe)
+- Monocyty: 0,1 x10^9/l (prawidłowe)
+- Trombocyty: 390 G/l (prawidłowe)
+- Erytrocyty: 5,93 T/l (prawidłowe)
+- Hematokryt: 27,8% (prawidłowy)
+- Hemoglobina: 9,3 g/dl (prawidłowa)
+
+**Biochemia krwi:**
+- **Kreatynina**: 0,67 mg/dl (NISKA, ref: 0,8-1,8) - wskazuje na zaburzenia funkcji nerek lub zaburzenia metaboliczne
+- **BUN (Azot mocznika)**: 25,5 mg/dl (prawidłowy, ref: 17,6-32,8)
+- **Azot mocznika/Kreatynina**: 38,1 (WYSOKI, ref: 17,5-21,9) - wskazuje na zaburzenia funkcji tubularnej nerek
+- Białko całkowite: 7,6 g/dl (prawidłowe)
+- ALT (GPT): 76 U/l (prawidłowe, ref: 22-84)
+- AP (Fosfataza zasadowa): 37 U/l (prawidłowe)
+- Glukoza: 102 mg/dl (prawidłowa)
+- Lipaza: 25 U/l (prawidłowa)
+
+**Znaczenie kliniczne**: Utrzymująca się leukopenia i neutropenia potwierdzają przewlekłe zaburzenie hematopoizy. Niska kreatynina przy normalnym BUN i podwyższonym stosunku BUN/Kreatynina sugeruje zaburzenia reabsorpcji/funkcji tubularnej nerek.
+
 ### Luty-Kwiecień 2023: Leczenie i Rehabilitacja
 *Źródła: [Konsultacja NeuroTeam 13.02.2023](https://drive.google.com/file/d/1odcSWwDaEOFcNm_TLunWW8Ofod5odJkC/view?usp=drivesdk), [Konsultacja dr Hildebrand 06.03.2023](https://drive.google.com/file/d/1w5APg8V8ZhrIopg97sn3Y8Px8lOfMMKj/view?usp=drivesdk), [Zdrowy Pupil - podsumowanie 2022-2024](https://drive.google.com/file/d/1fr6toKDIdb-aQDgQW2bCDSr4FWRTaCLR/view?usp=drivesdk) str. 7-10*
 

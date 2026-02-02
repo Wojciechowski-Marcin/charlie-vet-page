@@ -29,6 +29,7 @@ nav_order: 4
 | 09.01.2023 | 5,11      | 4,10      | 0,90      | Na steroidach                  | [Archivet](https://drive.google.com/file/d/1qV9-GGtKO5G778LNo6C5-MlSppmTfpkp/view?usp=drivesdk)            |
 | 09.03.2023 | 2,28      | 1,38      | 0,61      | Po steroidach                  | [Zdrowy Pupil](https://drive.google.com/file/d/1xJ-8iXeiYjYS-IJOZwV81v0B6-NI_GPr/view?usp=drivesdk) |
 | 24.03.2023 | 4,29      | 2,24      | 1,56      | Poprawa                        | [Zdrowy Pupil](https://drive.google.com/file/d/100BztocvdYfyKLB-mh3Ly3ZM8cjgbvHR/view?usp=drivesdk) |
+| 26.04.2023 | 4,5       | 3,1       | 1,3       | Leukopenia/Neutropenia         | [Zdrowy Pupil](https://drive.google.com/file/d/11aIi4Iu0WeyDa3trzJ2Cj55GYzH3H-qj/view?usp=drivesdk) |
 | 26.11.2024 | 7,17      | 4,49      | 1,85      | Najlepszy ostatnio             | [NeoVet](https://drive.google.com/file/d/168Za_7dMCq3rbJgUJNkdSSEDUGZ_z6tG/view?usp=drivesdk)               |
 | 27.11.2025 | 3,55      | 1,79      | 1,38      | Przed biopsją                  | [Morfologia](https://drive.google.com/file/d/1Q9mUHmzC6Jr02uxGzuSA0zmOdPwWJOo-/view?usp=drivesdk)                            |
 
@@ -59,6 +60,7 @@ Charlie wykazuje przewlekłą **leukopeniię/neutropeniię** - wartości WBC i N
 | Data       | Kreatynina   | Mocznik     | Uwagi               | Źródło                                                                     |
 | ---------- | ------------ | ----------- | ------------------- | -------------------------------------------------------------------------- |
 | 21.12.2022 | 109,5 µmol/l | 4,12 mmol/l | Prawidłowa          | [Archivet](https://drive.google.com/file/d/17dsHOQcOeLGIgVN3zy74won2hq2OpKle/view?usp=drivesdk) |
+| 26.04.2023 | 59,2 µmol/l  | 9,1 mmol/l  | Niska kreatynina    | [Zdrowy Pupil](https://drive.google.com/file/d/11aIi4Iu0WeyDa3trzJ2Cj55GYzH3H-qj/view?usp=drivesdk)  |
 | 26.11.2024 | 117,2 µmol/l | 11,4 mmol/l | Górna granica normy | [NeoVet](https://drive.google.com/file/d/168Za_7dMCq3rbJgUJNkdSSEDUGZ_z6tG/view?usp=drivesdk)    |
 | 27.11.2025 | 109,6 µmol/l | 7,83 mmol/l | Prawidłowa          | [Morfologia](https://drive.google.com/file/d/1Q9mUHmzC6Jr02uxGzuSA0zmOdPwWJOo-/view?usp=drivesdk)                 |
 
