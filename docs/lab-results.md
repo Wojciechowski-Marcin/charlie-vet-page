@@ -127,6 +127,45 @@ Charlie wykazuje przewlekłą **leukopeniię/neutropeniię** - wartości WBC i N
 - **Prawe nozdrze**: Mniejsza ilość wydzieliny, brak obrzęku i przekrwienia
 - **Wniosek**: Przewlekła przebudowa struktur pozapalna, bez cech nowotworowych
 
+### RTG Klatki Piersiowej (12.02.2026)
+*Źródło: [Opis USG i RTG 12.02.2026](https://drive.google.com/file/d/12Wt4RwfimBcPD0CNpXmM8MxuQlSCIRY4/view?usp=drivesdk)*
+
+- Miąższ płuc i drzewo oskrzelowe prawidłowe, stosowne do wieku
+- Brak uchwytnych zmian przerzutowych
+- Tchawica, śródpiersie i pozostałe jego struktury oraz jama opłucnej w normie
+- Sylwetka serca i naczynia krwionośne płuc bez uchwytnych radiograficznie zmian
+- Cieniowane kości i pozostałych tkanek miękkich stosowne do wieku
+- **Wniosek**: Badanie prawidłowe, brak zmian przerzutowych
+
+### USG Jamy Brzusznej (12.02.2026)
+*Źródło: [Opis USG i RTG 12.02.2026](https://drive.google.com/file/d/12Wt4RwfimBcPD0CNpXmM8MxuQlSCIRY4/view?usp=drivesdk)*
+
+**Węzły chłonne:**
+- Jelita czczego do 4,5 mm, wątrobowe 9,5x3 mm, jelita ślepego 5,5x2 mm, okrężniczy lewy 8x3,5 mm
+- Wielkości prawidłowej, dwa pierwsze z nieznaczną redukcją echogeniczności
+
+**Jelito cienkie:**
+- Lekkie pogrubienie ściany do 3 mm (dwunastnica i czcze)
+- Zaburzona proporcja warstw przez pogrubienie warstwy mięśniowej
+- Błona śluzowa o wzmożonej echogeniczności
+- **Diagnoza**: Obraz sugestywny dla przewlekłego/nawracającego zapalenia
+
+**Wątroba:**
+- Powiększona z wyraźnym i jednorodnym wzmożeniem echogeniczności miąższu (stłuszczenie)
+- Bez zmian ogniskowych
+- **Diagnoza**: Hepatomegalia z cechami rozlanego zwyrodnienia miąższu
+
+**Pęcherzyk żółciowy:**
+- Prawidłowa ściana, wypełniony średnią ilością nieznacznie zagęszczonej żółci
+
+**Nerki:**
+- Symetryczne, lewa 33x22 mm, prawa 38x19 mm
+- Wielkość, kształt i echostruktura bez zmian
+- Układ zbiorczy nieposzerzony
+
+**Trzustka, śledziona, nadnercza, pęcherz moczowy:**
+- Bez uchwytnych zmian
+
 ---
 
 

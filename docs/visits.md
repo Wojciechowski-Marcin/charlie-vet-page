@@ -17,6 +17,46 @@ nav_order: 3
 {:toc}
 
 ## Chronologiczna Historia Medyczna
+### Luty 2026: Badania Obrazowe - RTG i USG
+*Źródło: [Opis USG i RTG 12.02.2026](https://drive.google.com/file/d/12Wt4RwfimBcPD0CNpXmM8MxuQlSCIRY4/view?usp=drivesdk)*
+
+**Badanie RTG klatki piersiowej i USG jamy brzusznej (12.02.2026):**
+Lekarz prowadzący: lek.wet. Kamila Molenda
+
+**RTG klatki piersiowej:**
+- Miąższ płuc i drzewo oskrzelowe prawidłowe
+- **Brak zmian przerzutowych** ✓
+- Sylwetka serca i naczynia krwionośne płuc bez zmian
+- Wynik prawidłowy
+
+**USG jamy brzusznej - kluczowe znaleziska:**
+
+1. **Jelito cienkie**:
+   - Lekkie pogrubienie ściany do 3 mm (dwunastnica i czcze)
+   - Zaburzona proporcja warstw przez pogrubienie warstwy mięśniowej
+   - Błona śluzowa o wzmożonej echogeniczności
+   - **Diagnoza**: Obraz sugestywny dla przewlekłego/nawracającego zapalenia (nieswoista choroba zapalna lub nadwrażliwość)
+
+2. **Wątroba**:
+   - Powiększona z wyraźnym i jednorodnym wzmożeniem echogeniczności miąższu
+   - **Diagnoza**: Hepatomegalia z cechami rozlanego zwyrodnienia miąższu najpewniej z jej umiarkowanym stłuszczeniem typowe dla przewlekłych procesów
+   - Możliwy efekt uboczny leków lub wpływ diety
+   - Ze względu na lekką limfadenopatię wrotnych niewykluczone zapalenie przewlekłe
+
+3. **Pęcherzyk żółciowy**:
+   - Śladowe zagęszczenie żółci bez uchwytnej przebudowy ściany dróg żółciowych wtórnie do hepatopatii
+
+4. **Nerki**: Symetryczne, lewa 33x22 mm, prawa 38x19 mm - bez zmian
+
+5. **Pozostałe narządy**: Trzustka, śledziona, nadnercza, pęcherz moczowy - bez uchwytnych zmian
+
+**Znaczenie kliniczne**:
+- Brak zmian przerzutowych w płucach (dobra wiadomość w kontekście raka)
+- Potwierdzone przewlekłe zapalenie jelit
+- Nowo zdiagnozowana hepatomegalia ze stłuszczeniem - wymaga monitorowania
+
+---
+
 ### Styczeń 2026: Konsultacja Onkologiczna
 *Źródło: [Konsultacja onkologiczna 29.01.2026](https://drive.google.com/file/d/1-SPo1d2gm6434sb32Ksi9ocRIvlI1hek/view?usp=drivesdk)*
 
@@ -49,8 +89,6 @@ Lekarz prowadzący: lek. wet. Imane Sghir
 2. Kontakt mailowy w poniedziałek ws. wykonania badania CISH na FcaPV-2
 
 **Diagnoza:** Rak in situ typu bowenoidnego (Bowenoid-type carcinoma in situ) - potwierdzona, z nowymi/rosnącymi zmianami
-
----
 
 ### Grudzień 2025: Kontrolna Endoskopia i Biopsja Skóry
 *Źródła: [Raport endoskopia 16.12.2025](https://drive.google.com/file/d/1TTBRWY-vsmuw71NFM_yC1MSvzkDEkKPj/view?usp=drivesdk), [Wizyta GoldenVet 16.12.2025](https://drive.google.com/file/d/1b5Jc1oqzOx_g1gXFhpjd9FDP_vOEyGjZ/view?usp=drivesdk), [Mycoplasma grzyby bakterie 19.12.2025](https://drive.google.com/file/d/1PSzra36OYdkiMwxAUiaxkXxThXijjPIT/view?usp=drivesdk)*

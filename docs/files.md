@@ -118,9 +118,9 @@ nav_order: 5
 
 | Pole | Wartość |
 |------|---------|
-| Ostatnia aktualizacja | 29 stycznia 2026 |
-| Na podstawie dokumentacji z okresu | Październik 2022 - Styczeń 2026 |
-| Liczba dokumentów źródłowych | 59 plików PDF |
+| Ostatnia aktualizacja | 16 lutego 2026 |
+| Na podstawie dokumentacji z okresu | Październik 2022 - Luty 2026 |
+| Liczba dokumentów źródłowych | 60 plików PDF |
 
 
 ---

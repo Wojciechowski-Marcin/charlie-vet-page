@@ -47,8 +47,9 @@ nav_order: 2
 - **Status**: Zdiagnozowany styczeń 2026, zmiany obserwowane od co najmniej lipca 2025, nowe/rosnące zmiany stwierdzone 29.01.2026
 - **Lokalizacja**: Skóra grzbietu (szyi i karku), okolica potyliczna, pod żuchwą
 - **Status marginesów**: Guz przy marginesie bocznym - niepełne wycięcie
+- **Ostatnie badania obrazowe (12.02.2026)**: RTG klatki piersiowej - brak zmian przerzutowych, płuca i serce prawidłowe - [Opis USG i RTG](https://drive.google.com/file/d/12Wt4RwfimBcPD0CNpXmM8MxuQlSCIRY4/view?usp=drivesdk)
 - **PILNE - Następne kroki**:
-  - ⚠️ RTG klatki piersiowej i USG jamy brzusznej (wskazane ze względu na utratę masy ciała)
+  - ✅ RTG klatki piersiowej i USG jamy brzusznej wykonane 12.02.2026
   - Badanie CISH na FcaPV-2 (decyzja po kontakcie mailowym)
   - Monitorować pod kątem progresji zmian (jedna zmiana pod żuchwą urosła)
   - Rozważyć dalsze wycięcie chirurgiczne
@@ -112,12 +113,35 @@ nav_order: 2
 - **Aktualny stan**: Łagodna resztkowa ataksja, utrzymuje dobrą jakość życia
 - **Aktywne leczenie nie wymagane** chyba że nastąpi pogorszenie kliniczne
 
-### 4. Podejrzewane IBD / Choroba Przewodu Pokarmowego
-*Źródła: [Wyniki kału 26.04.2023](https://drive.google.com/file/d/1y3npPPkhQnow00_nrpXAza7DgrkLbhoi/view?usp=drivesdk), [USG 28.12.2022](https://drive.google.com/file/d/1v2ZMwvKAgelGmOraJCmUL5eNGy6Wdj25/view?usp=drivesdk)*
+### 4. Problemy Gastroenterologiczne (Priorytet: ŚREDNI)
+
+**4a. Podejrzewane IBD / Przewlekłe Zapalenie Jelit**
+*Źródła: [Wyniki kału 26.04.2023](https://drive.google.com/file/d/1y3npPPkhQnow00_nrpXAza7DgrkLbhoi/view?usp=drivesdk), [USG 28.12.2022](https://drive.google.com/file/d/1v2ZMwvKAgelGmOraJCmUL5eNGy6Wdj25/view?usp=drivesdk), [USG 12.02.2026](https://drive.google.com/file/d/12Wt4RwfimBcPD0CNpXmM8MxuQlSCIRY4/view?usp=drivesdk)*
 
 - **Dowody**: Niskie B12, krew utajona dodatnia, zmiany ściany jelita w USG
-- **Status**: Obecnie bez aktywnych objawów
-- **Monitorować**: Apetyt, epizody wymiotów, masę ciała
+- **USG 12.02.2026**:
+  - Jelito cienkie z lekkim pogrubieniem ściany do 3 mm (dwunastnica i czcze)
+  - Zaburzona proporcja warstw przez pogrubienie warstwy mięśniowej
+  - Błona śluzowa o wzmożonej echogeniczności
+  - Diagnoza: Obraz sugestywny dla przewlekłego/nawracającego zapalenia (nieswoista choroba zapalna lub nadwrażliwość)
+  - Węzły chłonne jelitowe z nieznaczną redukcją echogeniczności (jelita czczego do 4,5 mm, wątrobowe 9,5x3 mm)
+- **Status**: Potwierdzone zmiany strukturalne, ale bez aktywnych objawów klinicznych
+
+**4b. Hepatomegalia ze Stłuszczeniem Wątroby**
+*Źródło: [USG 12.02.2026](https://drive.google.com/file/d/12Wt4RwfimBcPD0CNpXmM8MxuQlSCIRY4/view?usp=drivesdk)*
+
+- **Status**: Nowo zdiagnozowana 12.02.2026
+- **Obraz USG**:
+  - Wątroba powiększona z wyraźnym i jednorodnym wzmożeniem echogeniczności miąższu (stłuszczenie)
+  - Bez zmian ogniskowych
+  - Śladowe zagęszczenie żółci (bez przebudowy ściany dróg żółciowych)
+- **Diagnoza USG**: Hepatomegalia z cechami rozlanego zwyrodnienia miąższu typowe dla przewlekłych procesów
+- **Możliwe przyczyny**: Efekt uboczny leków, wpływ diety, ze względu na lekką limfadenopatię wrotnych - niewykluczone zapalenie przewlekłe
+
+**Monitorowanie problemów gastroenterologicznych:**
+- Apetyt, epizody wymiotów, masa ciała, konsystencja stolca
+- Enzymy wątrobowe (ALT, AST, GLDH) - co 3-6 miesięcy
+- Kontrolne USG jamy brzusznej w razie pogorszenia objawów
 
 ### 5. Przewlekła Leukopenia/Neutropenia
 *Źródła: [Morfologia 27.11.2025](https://drive.google.com/file/d/1Q9mUHmzC6Jr02uxGzuSA0zmOdPwWJOo-/view?usp=drivesdk), [Seria morfologii 2022-2025](https://drive.google.com/file/d/1xJ-8iXeiYjYS-IJOZwV81v0B6-NI_GPr/view?usp=drivesdk)*
