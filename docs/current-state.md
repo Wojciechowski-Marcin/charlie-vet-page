@@ -1,5 +1,5 @@
 ---
-title: "Aktualny Stan"
+title: "Aktywne Problemy"
 nav_order: 2
 ---
 
@@ -43,16 +43,43 @@ nav_order: 2
   - **Wskazanie do RTG klatki piersiowej i USG jamy brzusznej** ze względu na utratę masy ciała
   - Kontakt mailowy ws. badania CISH na FcaPV-2
 
-*Podsumowanie*
-- **Status**: Zdiagnozowany styczeń 2026, zmiany obserwowane od co najmniej lipca 2025, nowe/rosnące zmiany stwierdzone 29.01.2026
+*Badania obrazowe - aktualizacja 12.02.2026:*
+- **RTG klatki piersiowej**: Brak zmian przerzutowych, płuca i serce prawidłowe - [Opis USG i RTG](https://drive.google.com/file/d/12Wt4RwfimBcPD0CNpXmM8MxuQlSCIRY4/view?usp=drivesdk)
+- **USG jamy brzusznej**: Brak zmian nowotworowych w narządach wewnętrznych - [Opis USG i RTG](https://drive.google.com/file/d/12Wt4RwfimBcPD0CNpXmM8MxuQlSCIRY4/view?usp=drivesdk)
+- **Znaczenie kliniczne**: Potwierdza, że zmiany pozostają ograniczone do skóry (in situ), brak inwazji/przerzutów
+
+*Decyzja terapeutyczna - 17.02.2026:*
+
+**Badanie FcaPV-2 (Felis catus papillomavirus-2):**
+- Lekarz prowadzący podjął decyzję o **rezygnacji** z dodatkowego badania CISH na FcaPV-2
+- **Uzasadnienie**: Przy obecnym obrazie klinicznym (wieloogniskowe zmiany bowenoidne potwierdzone histopatologicznie) zakażenie FcaPV-2 można z dużym prawdopodobieństwem założyć
+- Wynik badania nie zmieniłby znacząco postępowania terapeutycznego
+- W klinice obserwowane są koty z dużo liczniejszymi zmianami BISC, u których nie wykonuje się agresywnego chirurgicznego usuwania
+
+**Zalecona strategia postępowania:**
+
+1. **Obserwacja kliniczna** - kontrola za 1 miesiąc (marzec 2026):
+   - Ocena dynamiki istniejących zmian skórnych
+   - Sprawdzenie czy pojawiają się nowe zmiany
+   - Decyzja o dalszym postępowaniu (chirurgia, terapia miejscowa) zostanie podjęta na podstawie obserwacji klinicznej
+
+2. **GenoMune (ScanVet)** - suplementacja immunostymulująca:
+   - **Substancja czynna**: Beta-1,3/1,6-D-glukan z Pleurotus ostreatus (10 mg/ml)
+   - **Dawkowanie**: 2 ml/dzień (Charlie waży 3,95 kg → ~2 ml na 5 kg m.c.)
+   - **Sposób podania**: Rano, zmieszany z karmą lub bezpośrednio do jamy ustnej
+   - **Schemat**: 3 miesiące suplementacji → 1 miesiąc przerwy
+   - **Mechanizm**: Beta-glukan aktywuje receptor Dectin-1 na makrofagach/komórkach NK, stymulując nadzór immunologiczny
+   - **Cel**: Wsparcie odpowiedzi immunologicznej przeciwnowotworowej, możliwa korekta neutropenii
+   - **Uwaga**: Badania na kotach pokazują zmienne wyniki — warto monitorować morfologię po 4-6 tygodniach
+
+**Podsumowanie - aktualny status:**
+- **Diagnoza**: Rak In Situ Typu Bowenoidnego (BISC), prawdopodobnie związany z FcaPV-2
+- **Status**: Zdiagnozowany 27.01.2026, niepełne wycięcie (marginesy dodatnie)
 - **Lokalizacja**: Skóra grzbietu (szyi i karku), okolica potyliczna, pod żuchwą
-- **Status marginesów**: Guz przy marginesie bocznym - niepełne wycięcie
-- **Ostatnie badania obrazowe (12.02.2026)**: RTG klatki piersiowej - brak zmian przerzutowych, płuca i serce prawidłowe - [Opis USG i RTG](https://drive.google.com/file/d/12Wt4RwfimBcPD0CNpXmM8MxuQlSCIRY4/view?usp=drivesdk)
-- **PILNE - Następne kroki**:
-  - ✅ RTG klatki piersiowej i USG jamy brzusznej wykonane 12.02.2026
-  - Badanie CISH na FcaPV-2 (decyzja po kontakcie mailowym)
-  - Monitorować pod kątem progresji zmian (jedna zmiana pod żuchwą urosła)
-  - Rozważyć dalsze wycięcie chirurgiczne
+- **Charakter**: Wieloogniskowy (nowe zmiany pojawiają się w różnych lokalizacjach)
+- **Rokowanie**: Korzystniejsze niż przy inwazyjnym SCC — badania obrazowe (02.2026) nie wykazały przerzutów
+- **Priorytet**: ŚREDNI → obserwacja (zmiana z WYSOKI po wykluczeniu przerzutów)
+- **Następne kroki**: Kontrola za 1 miesiąc, GenoMune 2 ml/dzień, monitorowanie masy ciała
 
 ### 2. Przewlekłe Zapalenie Zatok/Nosa (Priorytet: ŚREDNI)
 
@@ -88,22 +115,54 @@ nav_order: 2
   - Brak jednorodnej zmiany rozrostowej typu polipa
 - **19.12.2025**: Wyniki mikrobiologiczne - **Mycoplasma spp. PCR UJEMNY** (wyleczona!), flora fizjologiczna, brak patogenów - [Mycoplasma](https://drive.google.com/file/d/1PSzra36OYdkiMwxAUiaxkXxThXijjPIT/view?usp=drivesdk)
 
-*Podsumowanie:*
+*Podsumowanie i analiza patofizjologiczna:*
+
+**Charakterystyka choroby:**
+- **Diagnoza**: Przewlekłe zapalenie zatok/nosa u kotów (Feline Idiopathic Chronic Rhinosinusitis, FICR) — diagnoza z wykluczenia
 - **Status**: Przewlekły, nawracający; Mycoplasma wyleczona (grudzień 2025), ale obecne **trwałe zmiany strukturalne**
 - **Lokalizacja**: Głównie lewe nozdrze (zwężenie wejścia, przebudowa małżowiny)
-- **Etiologia**: Wieloczynnikowa - najprawdopodobniej przewlekłe następstwa kociego kataru wirusowego, możliwy udział FHV-1 (nie testowano)
-- **Zidentyfikowane patogeny**:
-  - Serratia marcescens (październik 2024)
-  - Mycoplasma spp. (grudzień 2024 → wyleczona grudzień 2025)
-  - Actinomyces sp. (grudzień 2024, oportunistyczny)
-- **Zmiany strukturalne** (potwierdzone endoskopowo):
-  - Zwężenie wejścia do lewego nozdrza
-  - Guzkowy przerost limfoidalny nozdrzech tylnych
-  - Przebudowa małżowiny nosowej lewej (drobne guzki pozapalne)
-  - Zwiększona sekrecja śluzowa
-- **Aktualne leczenie**: Rhinobiom (probiotyk do nosa), Flegamina (mukolityk), FloraBalance
-- **Prognoza**: Pełne wyleczenie mało prawdopodobne ze względu na trwałe zmiany strukturalne; celem jest kontrola objawów i zapobieganie zaostrzeniom
-- **Uwaga**: Herpeswiroza kotów (FHV-1) nigdy nie była badana PCR, może być współudziałowcem
+
+**Patogeneza:**
+- Najprawdopodobniej pierwotne zakażenie wirusowe (FHV-1 lub FCV) → destrukcja nabłonka oddechowego i małżowin nosowych
+- Następnie samopodtrzymujący się cykl zapalny z wtórnymi infekcjami bakteryjnymi
+- **Kluczowe**: Według literatury (Scherk, JFMS 2010) kota z przewlekłym zapaleniem zatok **nigdy nie wyleczymy** — celem leczenia jest poprawa jakości życia poprzez redukcję objawów
+
+**Zidentyfikowane patogeny:**
+- Serratia marcescens (październik 2024) — infekcja wtórna
+- Mycoplasma spp. (grudzień 2024 → **wyleczona** grudzień 2025) — infekcja wtórna
+- Actinomyces sp. (grudzień 2024, oportunistyczny)
+- **FHV-1 (herpeswirus kotów typu 1)** — **NIGDY NIE TESTOWANO**, ale jest najczęstszą przyczyną inicjującą FICR
+  - FHV-1 ustanawia dożywotnią latentną infekcję w zwoju trójdzielnym, z możliwością reaktywacji w okresach stresu
+  - Wykrywalność PCR w przewlekłych przypadkach jest niska — wynik ujemny nie wyklucza roli wirusa
+  - Podejrzenie FHV-1 w historii: nawrót 05.2025 po zakończeniu doksycykliny, lekarz podejrzewał herpeswirózę
+
+**Zmiany strukturalne** (potwierdzone endoskopowo 16.12.2025):
+- Zwężenie wejścia do lewego nozdrza
+- Guzkowy przerost limfoidalny nozdrzech tylnych
+- Przebudowa małżowiny nosowej lewej (drobne guzki pozapalne)
+- Zwiększona sekrecja śluzowa
+
+**Profil odpowiedzi na leczenie:**
+- Antybiotyki mają charakter **paliatywny** — leczą wtórne infekcje bakteryjne, ale nie usuwają trwałych zmian strukturalnych
+- Najlepszy efekt: Doksycyklina (7 tygodni, 5 tygodni bez objawów po zakończeniu)
+- Malejąca skuteczność kolejnych kursów antybiotyków (skrócenie czasu remisji z ~5 miesięcy do 2 dni)
+- Nawroty mimo wyleczenia Mycoplasma — potwierdza, że głównym problemem są trwałe zmiany strukturalne
+
+**Aktualne leczenie:**
+- Rhinobiom (probiotyk do nosa) — modulacja mikrobioty nosowej
+- Flegamina (mukolityk) — rozrzedzenie śluzu
+- FloraBalance (probiotyk jelitowy) — wsparcie ogólne
+
+**Prognoza:**
+- Pełne wyleczenie mało prawdopodobne ze względu na trwałe zmiany strukturalne
+- Cel: Kontrola objawów i zapobieganie zaostrzeniom
+- Możliwe opcje przy zaostrzeniach:
+  - Okresowe płukanie jamy nosowej pod znieczuleniem (np. raz na 3-6 miesięcy)
+  - Prednizolon w niskich dawkach (wymaga ostrożności ze względu na BISC i neutropenię)
+  - Famcyklowir (antywirusowy) — jeśli potwierdzi się aktywna reaktywacja FHV-1
+
+**Luki diagnostyczne:**
+- FHV-1 PCR — nigdy nie wykonano; niskie prawdopodobieństwo wykrycia w przewlekłym przypadku, ale mogłoby potwierdzić etiologię
 
 ### 3. Zaburzenie Neurologiczne (Stabilne)
 *Źródła: [MRI 28.12.2022](https://drive.google.com/file/d/1e7d9912P4zOgCHoSFpl8WxGRk0HLaiGt/view?usp=drivesdk), [Konsultacje NeuroTeam 2022-2023](https://drive.google.com/file/d/10-g0nG-ljxH4vgqwovn0jGZFYXFJ2TKV/view?usp=drivesdk)*
@@ -115,114 +174,164 @@ nav_order: 2
 
 ### 4. Problemy Gastroenterologiczne (Priorytet: ŚREDNI)
 
-**4a. Podejrzewane IBD / Przewlekłe Zapalenie Jelit**
+**4a. Nieswoiste Zapalenie Jelit (IBD) / Przewlekłe Zapalenie Jelit**
 *Źródła: [Wyniki kału 26.04.2023](https://drive.google.com/file/d/1y3npPPkhQnow00_nrpXAza7DgrkLbhoi/view?usp=drivesdk), [USG 28.12.2022](https://drive.google.com/file/d/1v2ZMwvKAgelGmOraJCmUL5eNGy6Wdj25/view?usp=drivesdk), [USG 12.02.2026](https://drive.google.com/file/d/12Wt4RwfimBcPD0CNpXmM8MxuQlSCIRY4/view?usp=drivesdk)*
 
-- **Dowody**: Niskie B12, krew utajona dodatnia, zmiany ściany jelita w USG
-- **USG 12.02.2026**:
-  - Jelito cienkie z lekkim pogrubieniem ściany do 3 mm (dwunastnica i czcze)
-  - Zaburzona proporcja warstw przez pogrubienie warstwy mięśniowej
-  - Błona śluzowa o wzmożonej echogeniczności
-  - Diagnoza: Obraz sugestywny dla przewlekłego/nawracającego zapalenia (nieswoista choroba zapalna lub nadwrażliwość)
-  - Węzły chłonne jelitowe z nieznaczną redukcją echogeniczności (jelita czczego do 4,5 mm, wątrobowe 9,5x3 mm)
-- **Status**: Potwierdzone zmiany strukturalne, ale bez aktywnych objawów klinicznych
+**Dowody na IBD:**
 
-**4b. Hepatomegalia ze Stłuszczeniem Wątroby**
-*Źródło: [USG 12.02.2026](https://drive.google.com/file/d/12Wt4RwfimBcPD0CNpXmM8MxuQlSCIRY4/view?usp=drivesdk)*
+1. **Obraz ultrasonograficzny** (potwierdza przewlekły charakter — zmiany obecne od co najmniej >3 lat):
+   - **USG 12.02.2026**:
+     - Jelito cienkie z lekkim pogrubieniem ściany do **3 mm** (dwunastnica i czcze)
+     - **Zaburzona proporcja warstw** przez pogrubienie warstwy mięśniowej
+     - Błona śluzowa o **wzmożonej echogeniczności**
+     - Diagnoza: Obraz sugestywny dla **przewlekłego/nawracającego zapalenia** (nieswoista choroba zapalna lub nadwrażliwość)
+     - Węzły chłonne: jelita czczego do 4,5 mm, wątrobowe 9,5x3 mm (nieznaczna redukcja echogeniczności)
+   - **USG 28.12.2022**:
+     - Już wtedy pogrubienie ściany jelita cienkiego (2,5-2,7 mm) ze wzmożoną echogenicznością błony śluzowej
+     - **Zmiany obecne od co najmniej >3 lat**
 
-- **Status**: Nowo zdiagnozowana 12.02.2026
-- **Obraz USG**:
-  - Wątroba powiększona z wyraźnym i jednorodnym wzmożeniem echogeniczności miąższu (stłuszczenie)
-  - Bez zmian ogniskowych
-  - Śladowe zagęszczenie żółci (bez przebudowy ściany dróg żółciowych)
-- **Diagnoza USG**: Hepatomegalia z cechami rozlanego zwyrodnienia miąższu typowe dla przewlekłych procesów
-- **Możliwe przyczyny**: Efekt uboczny leków, wpływ diety, ze względu na lekką limfadenopatię wrotnych - niewykluczone zapalenie przewlekłe
+2. **Zaburzenia wchłaniania**:
+   - Witamina B12: **605 pg/ml** (norma 900-2800) — niska, wskazuje na zaburzenia wchłaniania w jelicie krętym, typowe dla IBD
+   - Krew utajona w kale: **Dodatnia** (04.2023)
+
+3. **Historia kliniczna**:
+   - Nawracające wymioty (przynajmniej raz w miesiącu seria kilkudniowa — 06.2024)
+   - Zmieniony apetyt
+   - Wykluczenie drobiu z diety (od 07.2025) — sugeruje podejrzenie komponentu pokarmowego
+
+**KRYTYCZNA luka diagnostyczna — brak biopsji jelitowej:**
+- IBD u kotów jest diagnozą z wykluczenia, wymagającą **biopsji śluzówki jelitowej**
+- **Bez biopsji nie można definitywnie odróżnić IBD od chłoniaka alimentarnego (low-grade alimentary lymphoma)**
+- Chłoniak może mieć **identyczny** obraz ultrasonograficzny i kliniczny jak IBD (pogrubienie ściany jelita, zaburzone proporcje warstw, wymioty, utrata masy ciała)
+- To rozróżnienie jest **kluczowe**, ponieważ chłoniak wymaga innego podejścia terapeutycznego (chemioterapia vs. dieta/steroidy)
+
+**Triaditis — powiązanie IBD z problemami wątroby i trzustki:**
+- U kotów częste jest współwystępowanie IBD, zapalenia trzustki i cholangiohepatis (tzw. **triaditis**)
+- Anatomiczna predyspozycja kota: wspólne ujście przewodu trzustkowego i żółciowego do dwunastnicy ułatwia refluks bakterii i treści jelitowej
+- W przypadku Charliego: IBD + hepatomegalia ze stłuszczeniem → **wymaga wykluczenia zapalenia trzustki** (fPLI / SNAP fPL)
+
+**Status:**
+- Potwierdzone zmiany strukturalne (USG 02.2026)
+- Obecnie bez aktywnych objawów klinicznych (brak wymiotów, normalny apetyt)
+- Utrata masy ciała ~12-15% — może być związana z IBD
+
+**Zalecenia diagnostyczne:**
+- Rozważyć biopsję jelitową w celu definitywnego rozróżnienia IBD vs. chłoniak alimentarny
+- Powtórzyć oznaczenie witaminy B12 — jeśli nadal niska, rozważyć suplementację
+- Wykluczyć zapalenie trzustki (fPLI) w kontekście triaditis
+- Optymalizacja diety: dieta hydrolizowana lub novelowa (np. konina, królik)
+
+**4b. Hepatomegalia ze Stłuszczeniem Wątroby (Hepatic Lipidosis)**
+*Źródło: [USG 12.02.2026](https://drive.google.com/file/d/12Wt4RwfimBcPD0CNpXmM8MxuQlSCIRY4/view?usp=drivesdk), [Morfologia 27.11.2025](https://drive.google.com/file/d/1Q9mUHmzC6Jr02uxGzuSA0zmOdPwWJOo-/view?usp=drivesdk)*
+
+**Status:** Nowo zdiagnozowana 12.02.2026
+
+**Obraz USG (12.02.2026):**
+- Wątroba powiększona z **wyraźnym i jednorodnym wzmożeniem echogeniczności miąższu** (stłuszczenie)
+- Bez zmian ogniskowych (**brak dowodów na guzki/przerzuty nowotworowe** — istotne w kontekście BISC!)
+- Śladowe zagęszczenie żółci (bez przebudowy ściany dróg żółciowych)
+- Węzły chłonne wrotne z nieznaczną redukcją echogeniczności — niewykluczone zapalenie przewlekłe
+
+**Kontekst kliniczny:**
+- Stłuszczenie wątroby (hepatic lipidosis) jest najczęstszą formą dysfunkcji wątroby u kotów
+- **IBD jest jedną z najczęstszych chorób współistniejących z hepatic lipidosis**:
+  - Zapalenie jelit → wymioty, biegunki, utrata apetytu → utrata masy ciała → stłuszczenie wątroby
+  - Przewlekłe zapalenie jelit zwiększa przepuszczalność śluzówki jelitowej, umożliwiając translokację bakterii do krwi wrotnej → możliwa bakteryjna cholangitis/cholangiohepatitis
+
+**Znaczenie kliniczne u Charliego:**
+- Stłuszczenie wątroby prawdopodobnie **wtórne do IBD i/lub utraty masy ciała**
+- Spadek masy ciała z 4,5-4,7 kg do **3,95 kg** (~12-15%) jest istotny i stanowi **czynnik ryzyka progresji hepatic lipidosis**
+- **Enzymy wątrobowe (11.2025)**: ALT 59,1 U/l — w normie, sugeruje **wczesne stadium** stłuszczenia
+- Brak żółtaczki, letargu ani anoreksji — nie jest to obraz pełnoobjawowej hepatic lipidosis, lecz raczej **subkliniczne stłuszczenie** w kontekście przewlekłego procesu zapalnego
+- **Rokowanie**: Jeśli stłuszczenie zostanie rozpoznane wcześnie i leczone odpowiednio (adekwatna podaż pokarmowa), rokowanie jest dobre
+
+**Możliwe przyczyny stłuszczenia:**
+1. IBD → utrata masy ciała (główna przyczyna)
+2. Efekt uboczny leków (historia sterydoterapii)
+3. Przewlekłe zapalenie (niewykluczone zapalenie cholangiohepatitis w kontekście IBD — triaditis)
 
 **Monitorowanie problemów gastroenterologicznych:**
-- Apetyt, epizody wymiotów, masa ciała, konsystencja stolca
-- Enzymy wątrobowe (ALT, AST, GLDH) - co 3-6 miesięcy
-- Kontrolne USG jamy brzusznej w razie pogorszenia objawów
+- **Apetyt i masa ciała** — KLUCZOWE! Spadek masy ciała zwiększa ryzyko progresji hepatic lipidosis
+- Epizody wymiotów, konsystencja stolca
+- **Enzymy wątrobowe** (ALT, AST, GLDH) — co 3 miesiące
+- **Kontrolne USG** jamy brzusznej za 3-6 miesięcy lub wcześniej w razie pogorszenia objawów
+- Rozważyć **suplementację kaloryczną** jeśli masa ciała nie wzrasta, aby zapobiec progresji stłuszczenia
+- Wykluczyć **zapalenie trzustki** (fPLI / SNAP fPL) w kontekście triaditis (IBD + hepatopatia + zapalenie trzustki)
 
 ### 5. Przewlekła Leukopenia/Neutropenia
 *Źródła: [Morfologia 27.11.2025](https://drive.google.com/file/d/1Q9mUHmzC6Jr02uxGzuSA0zmOdPwWJOo-/view?usp=drivesdk), [Seria morfologii 2022-2025](https://drive.google.com/file/d/1xJ-8iXeiYjYS-IJOZwV81v0B6-NI_GPr/view?usp=drivesdk)*
 
-- **Status**: Utrzymujące się znalezisko
-- **Prawdopodobne przyczyny**: Efekt choroby przewlekłej, możliwy wpływ historii lekowej
-- **Znaczenie kliniczne**: Zwiększona podatność na infekcje
-- **Postępowanie**: Monitorować pod kątem infekcji, unikać immunosupresji jeśli możliwe
+**Status:** Przewlekła, utrzymująca się od co najmniej 10.2022 (>3 lata)
 
----
+**Trend WBC/NEU na przestrzeni lat:**
 
+| Data | WBC (G/l) | NEU (G/l) | Kontekst | Źródło |
+|------|-----------|-----------|----------|--------|
+| 10.2022 | 4,9 | 4,0 | Przed leczeniem | Podsumowanie ZdrowyPupil |
+| 11.2022 | 4,3 | 2,6 | Przed leczeniem | Archivet |
+| 12.2022 | 2,89 | 1,64 | Przed sterydem | Archivet |
+| **01.2023** | **5,11** | **4,10** | **Na prednizolonie 5mg** ← | Archivet |
+| 03.2023 | 2,28 | 1,38 | Prednizolon 1,25mg (redukcja) | Zdrowy Pupil |
+| 03.2023 | 4,29 | 2,24 | Prednizolon 1,25mg | Zdrowy Pupil |
+| 04.2023 | 4,5 | 3,1 | Hedylon 3,75mg | Zdrowy Pupil |
+| **11.2024** | **7,17** | **4,49** | **Brak leków (!)** — prawidłowe! | GoldenVet |
+| **11.2025** | **3,55** | **1,79** | **Brak leków** — powrót neutropenii | GoldenVet |
 
-## Aktualne Leki i Suplementy (stan na styczeń 2026)
+**Kluczowe obserwacje:**
+1. Neutropenia jest **przewlekła** — stwierdzana od co najmniej 10.2022, utrzymuje się przez >3 lata
+2. **FeLV i FIV ujemne dwukrotnie** (12.2022, 01.2023) — retrowirusy wykluczone
+3. **Odpowiedź na prednizolon**: WBC wzrósł z 2,89 do 5,11 po rozpoczęciu prednizolonu (01.2023) — **sugeruje komponent immunologiczny**
+4. **Interesujący wynik 11.2024**: WBC 7,17 G/l i NEU 4,49 G/l — **prawidłowe!** Bez żadnych leków. Sugeruje to, że neutropenia **nie jest stała** i może być modulowana przez czynniki (infekcja, stres, cykliczność?)
+5. **Powrót do neutropenii w 11.2025** (WBC 3,55, NEU 1,79) — bez leków
 
-| Lek          | Dawka      | Częstotliwość | Cel                       |
-| ------------ | ---------- | ------------- | ------------------------- |
-| Rhinobiom    | wg zaleceń | 1x dziennie   | Probiotyk do jamy nosowej |
-| FloraBalance | 1 kapsułka | 1x dziennie   | Probiotyk jelitowy        |
-| Flegamina    | 2.4ml      | 1x dziennie   | Rozrzedzenie śluzu        |
+**Diagnostyka różnicowa — priorytetyzacja:**
 
----
+1. **Neutropenia w przebiegu przewlekłego zapalenia** (najbardziej prawdopodobna):
+   - Przewlekły katar (FICR), IBD, procesy zapalne mogą powodować marginalizację i zużycie neutrofili
+   - Przewlekła stymulacja zapalna może prowadzić do wyczerpania rezerw szpiku
 
+2. **Autoimmunologiczna (immune-mediated) neutropenia**:
+   - Wspierana przez odpowiedź na prednizolon (01.2023: WBC ↑ z 2,89 do 5,11)
+   - Wymaga dalszej diagnostyki: biopsja szpiku, wykluczenie innych przyczyn
+   - Opisane przypadki u kotów reagowały na prednizolon i cyklosporynę
 
-## Wrażliwość na Leki i Reakcje
-*Źródła: [Zdrowy Pupil - podsumowanie 2022-2024](https://drive.google.com/file/d/1fr6toKDIdb-aQDgQW2bCDSr4FWRTaCLR/view?usp=drivesdk), [Podsumowanie GoldenVet 2024-2026](https://drive.google.com/file/d/1a9Jzw0eBVkj17FoAqpqbI30y3xQRq3DZ/view?usp=drivesdk)*
+3. **Cykliczna neutropenia**:
+   - Zmienność wyników (prawidłowe WBC w 11.2024, neutropenia w 11.2025) mogłaby sugerować komponent cykliczny
+   - Wymaga serii morfologii (np. co 2 tygodnie przez 2 miesiące) w celu oceny dynamiki
 
-- Dobrze toleruje NLPZ (meloksykam, loxicom)
-- Dobrze toleruje steroidy (prednizolon), ale monitorować działania niepożądane
-- Antybiotyki stosowane bez reakcji niepożądanych: Marbofloksacyna, Amoksycylina z kwasem klawulanowym, Doxycyklina, Azytromycyna
+4. **Polekowa** — mało prawdopodobna jako jedyna przyczyna, ale antybiotykoterapia i steroidy mogą modulować wyniki
 
-**Zalecenia dietetyczne:**
-- Wykluczenie drobiu z diety (kurczak, indyk, kaczka) - zalecone lipiec 2025
+**Implikacje kliniczne — powiązania z innymi problemami:**
 
----
+1. **BISC (problem 1)**:
+   - Osłabiony nadzór immunologiczny może ułatwiać replikację FcaPV-2 i progresję nowotworu
+   - **Imikwimod** (potencjalna terapia miejscowa BISC) może **nasilić neutropenię** — obecnie przeciwwskazany
+   - Stąd uzasadnienie suplementacji **GenoMune** (beta-glukan) — może stymulować neutrofile
 
+2. **FICR (problem 2)**:
+   - Zmniejszona zdolność do eliminacji patogenów z dróg oddechowych
+   - Predysponuje do wtórnych infekcji bakteryjnych (Serratia, Mycoplasma, Actinomyces)
 
-## Status Szczepień
+3. **Wszelkie procedury chirurgiczne**:
+   - Zwiększone ryzyko infekcji pooperacyjnych
+   - Typowo NEU <1,0 G/l jest uważane za klinicznie istotne — Charlie 1,79 G/l (11.2025) jest na granicy
 
-| Szczepienie                  | Data       | Seria   | Ważne do   | Źródło                                                                              |
-| ---------------------------- | ---------- | ------- | ---------- | ----------------------------------------------------------------------------------- |
-| Nobivac Rabies (wścieklizna) | 04.07.2025 | A755A01 | 31.05.2028 | [Wizyta GoldenVet 04.07.2025](https://drive.google.com/file/d/1kYEohfjy1RrdBzq-FQhMcaTNPWrv4f8R/view?usp=drivesdk) |
+4. **Immunosupresja terapeutyczna**:
+   - Steroidy mogą poprawić WBC (jak w 01.2023), ale ich stosowanie jest problematyczne w kontekście BISC (ryzyko progresji nowotworu)
 
-**Uwaga**: Szczepienie wykonane ze względu na długi czas od ostatniego szczepienia i planowaną podróż za granicę (Belgia, Holandia)
+**Zalecenia diagnostyczne:**
+- Rozważyć **biopsję szpiku kostnego** w celu oceny mielopoezy i wykluczenia autoimmunologicznej neutropenii (odpowiedź na steroidy sugeruje ten mechanizm)
+- **Seria morfologii** (np. co 2 tygodnie przez 2 miesiące) w celu oceny cykliczności
+- **Kontrolna morfologia po 4-6 tygodniach suplementacji GenoMune** — ocena ewentualnego wpływu beta-glukanu na neutropenię (możliwa dodatkowa korzyść poza wskazaniem onkologicznym)
 
----
-
-
-## Zalecenia Kliniczne dla Przyszłej Opieki
-
-### Priorytety Natychmiastowe
-*Na podstawie: [Histopatologia 18.12.2025](https://drive.google.com/file/d/1z8WjvMwm7kS_0TaGxO2DLfAN_fkO00i9/view?usp=drivesdk)*
-
-1. **Konsultacja onkologiczna** w sprawie raka bowenoidnego - ocena potrzeby szerszego wycięcia, badanie FcaPV-2
-2. **Monitorować pod kątem nowych zmian skórnych** - choroba może być wieloogniskowa
-3. **Kontynuować wspomagającą opiekę nad układem oddechowym** - mukolityki, wsparcie odporności
-
-### Harmonogram Monitorowania
-- **Co miesiąc**: Ogólne badanie kliniczne, kontrola masy ciała
-- **Co 3 miesiące**: Morfologia z rozmazem (obserwować neutropenię)
-- **Co 6 miesięcy**: Panel biochemiczny (wątroba, nerki)
-- **Co 12 miesięcy**: Pełne badanie przesiewowe z oceną kardiologiczną (wiek >10 lat)
-
-### Sygnały Alarmowe - Pilnie Szukać Pomocy Jeśli:
-- Powrót objawów neurologicznych (ataksja, osłabienie, drżenia)
-- Duszność (nie tylko wydzielina z nosa)
-- Znaczna utrata masy ciała (>10% masy ciała)
-- Całkowita anoreksja trwająca >48 godzin
-- Nowe zmiany skórne lub zmiany w istniejącej zmianie
-- Skłonność do krwawień (wybroczyny, przedłużone krwawienie)
-
-### Szczególne Uwagi
-*Na podstawie: [Morfologia 27.11.2025](https://drive.google.com/file/d/1Q9mUHmzC6Jr02uxGzuSA0zmOdPwWJOo-/view?usp=drivesdk), [Historia leczenia](https://drive.google.com/file/d/1fr6toKDIdb-aQDgQW2bCDSr4FWRTaCLR/view?usp=drivesdk)*
-
-- **Immunosupresja** - przewlekła neutropenia zwiększa ryzyko infekcji
-- **Unikać niepotrzebnej immunosupresji** - zachować ostrożność ze steroidami, chyba że absolutnie konieczne
-- **Ryzyko znieczulenia**: Niskie na podstawie ostatniej kwalifikacji kardiologicznej [Wyniki kardio](https://drive.google.com/file/d/15LP0Yy8Wbhjk4goRmE6J9AJBFUyOieDJ/view?usp=drivesdk), ale ponowna ocena jeśli potrzebna znacząca procedura
-- **Dieta**: Brak szczególnych ograniczeń; monitorować pod kątem objawów żołądkowo-jelitowych ze względu na podejrzenie IBD
+**Postępowanie:**
+- Monitorować pod kątem infekcji
+- Unikać immunosupresji jeśli możliwe (ale rozważyć niskie dawki prednizolonu przed planowanymi procedurami chirurgicznymi, jeśli NEU <1,5 G/l)
+- W przypadku planowanych zabiegów chirurgicznych: rozważyć profilaktyczną antybiotykoterapię perioperacyjną
 
 ---
 
 
 ---
 
-[← Strona Główna](index.md) | [Strona główna](index.md) | [Historia Wizyt →](visits.md)
+[← Strona Główna](index.md) | [Strona główna](index.md) | [Leczenie →](treatment.md)

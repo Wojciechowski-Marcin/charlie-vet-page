@@ -14,26 +14,31 @@ from pathlib import Path
 # Page configuration - title and navigation order
 PAGE_CONFIG = {
     "index.md": {"title": "Strona Główna", "nav_order": 1},
-    "current-state.md": {"title": "Aktualny Stan", "nav_order": 2},
-    "visits.md": {"title": "Historia Wizyt", "nav_order": 3},
-    "lab-results.md": {"title": "Wyniki Badań", "nav_order": 4},
-    "files.md": {"title": "Dokumenty", "nav_order": 5},
+    "current-state.md": {"title": "Aktywne Problemy", "nav_order": 2},
+    "treatment.md": {"title": "Leczenie", "nav_order": 3},
+    "visits.md": {"title": "Historia Wizyt", "nav_order": 4},
+    "lab-results.md": {"title": "Wyniki Badań", "nav_order": 5},
+    "files.md": {"title": "Dokumenty", "nav_order": 6},
 }
 
 # Map section headers to output files
 # Sections are processed in order - first matching header wins for a section
 # Note: Only ## headers are used for splitting. ### headers stay with their parent.
 SECTION_MAPPING = [
-    # index.md - Intro and patient data
+    # index.md - Intro, patient data, and summary of problems
     ("# Kompleksowe Podsumowanie Medyczne Pacjenta", "index.md"),
     ("## Dane Pacjenta", "index.md"),
+    ("## Podsumowanie Aktywnych Problemów", "index.md"),
 
-    # current-state.md - Active problems, medications, sensitivities
+    # current-state.md - Detailed active problems
     ("## Lista Aktywnych Problemów", "current-state.md"),
-    ("## Aktualne Leki i Suplementy", "current-state.md"),
-    ("## Wrażliwość na Leki i Reakcje", "current-state.md"),
-    ("## Status Szczepień", "current-state.md"),
-    ("## Zalecenia Kliniczne dla Przyszłej Opieki", "current-state.md"),
+
+    # treatment.md - Medications, sensitivities, pharmacotherapy history, vaccinations, clinical recommendations
+    ("## Aktualne Leki i Suplementy", "treatment.md"),
+    ("## Wrażliwość na Leki i Reakcje", "treatment.md"),
+    ("## Historia Farmakoterapii", "treatment.md"),
+    ("## Status Szczepień", "treatment.md"),
+    ("## Zalecenia Kliniczne dla Przyszłej Opieki", "treatment.md"),
 
     # visits.md - Medical history (will be reversed)
     ("## Chronologiczna Historia Medyczna", "visits.md"),
@@ -56,6 +61,12 @@ def load_pdf_mapping(mapping_file):
         data = json.load(f)
     return data['pdf_mapping']
 
+def load_markdown_mapping(mapping_file):
+    """Load markdown filename to PDF source mapping."""
+    with open(mapping_file, 'r', encoding='utf-8') as f:
+        data = json.load(f)
+    return data['markdown_to_pdf_mapping']
+
 def anonymize_content(content):
     """Remove/anonymize private owner information."""
     lines = content.split('\n')
@@ -68,6 +79,24 @@ def anonymize_content(content):
         result.append(line)
 
     return '\n'.join(result)
+
+def replace_markdown_summary_links(content, md_mapping):
+    """Replace markdown links from summary files with links to original summary PDFs."""
+    pattern = r'\[([^\]]+)\]\(dokumentacja-md/([^)]+\.md)\)'
+
+    def replace_func(match):
+        link_text = match.group(1)
+        md_filename = match.group(2)  # e.g., "2023_02_28_wydanie_lekow_ZdrowyPupil.md"
+
+        # Check if this markdown file is in the mapping
+        if md_filename in md_mapping:
+            summary_pdf = f"dokumentacja/{md_mapping[md_filename]}"
+            return f"[{link_text}]({summary_pdf})"
+        else:
+            # Not a summary file - keep original markdown link
+            return match.group(0)
+
+    return re.sub(pattern, replace_func, content)
 
 def replace_pdf_links(content, pdf_mapping):
     """Replace local PDF links with Google Drive links."""
@@ -264,6 +293,7 @@ def main():
     docs_dir = repo_root / 'docs'
     original_file = repo_root.parent / 'podsumowanie-weterynaryjne.md'
     mapping_file = script_dir / 'pdf-mapping.json'
+    md_mapping_file = script_dir / 'markdown-to-pdf-mapping.json'
 
     if not original_file.exists():
         print(f"Error: Original file not found at {original_file}")
@@ -273,10 +303,18 @@ def main():
         print(f"Error: PDF mapping file not found at {mapping_file}")
         return False
 
-    # Load mapping
+    if not md_mapping_file.exists():
+        print(f"Error: Markdown mapping file not found at {md_mapping_file}")
+        return False
+
+    # Load mappings
     print("Loading PDF mapping...")
     pdf_mapping = load_pdf_mapping(mapping_file)
     print(f"  Loaded {len(pdf_mapping)} PDF file mappings")
+
+    print("Loading markdown-to-PDF mapping...")
+    md_mapping = load_markdown_mapping(md_mapping_file)
+    print(f"  Loaded {len(md_mapping)} markdown file mappings")
 
     # Read original content
     print("Reading original summary...")
@@ -286,6 +324,9 @@ def main():
     # Process content globally first
     print("Anonymizing private information...")
     content = anonymize_content(content)
+
+    print("Replacing markdown summary links with PDF links...")
+    content = replace_markdown_summary_links(content, md_mapping)
 
     print("Replacing PDF links with Google Drive links...")
     content = replace_pdf_links(content, pdf_mapping)

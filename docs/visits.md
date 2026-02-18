@@ -1,6 +1,6 @@
 ---
 title: "Historia Wizyt"
-nav_order: 3
+nav_order: 4
 ---
 
 {: .warning }
@@ -153,32 +153,204 @@ Lekarz prowadzący: lek. wet. Imane Sghir
 
 **Utrzymująca się leukopenia/neutropenia** - stałe znalezisko, monitorować pod kątem infekcji
 
-### Wrzesień 2025: Badanie Moczu
+### Styczeń 2026: Diagnoza Raka
+*Źródło: [Wyniki histopatologii 27.01.2026](https://drive.google.com/file/d/1a9Jzw0eBVkj17FoAqpqbI30y3xQRq3DZ/view?usp=drivesdk), [Histopatologia](https://drive.google.com/file/d/1z8WjvMwm7kS_0TaGxO2DLfAN_fkO00i9/view?usp=drivesdk)*
+
+**Rozmowa telefoniczna - wynik histopatologii (27.01.2026):**
+
+**ROZPOZNANIE: RAK IN SITU TYPU BOWENOIDNEGO (Bowenoid-type carcinoma in situ)**
+
+**Opis mikroskopowy:**
+- Naskórek i ściany mieszków włosowych znacznie i nieregularnie pogrubiałe
+- Nieregularne szeregi komórek nabłonkowych z utratą polaryzacji
+- Wysoki stosunek jądro-cytoplazma, skąpa eozynofilna cytoplazma z ziarnistościami melaniny
+- Jądra okrągłe do owalnych, hiperchromatyczne
+- Umiarkowana anizocytoza i anizokarioza
+- Figury mitotyczne: 0-1 w polu widzenia
+- Łagodny naciek zapalny (limfocyty, komórki plazmatyczne)
+- **KRYTYCZNE: Zmiana dochodzi do jednego z marginesów bocznych** (niepełne wycięcie) ⚠️
+
+**Komentarze:**
+- Często związany z **wirusem brodawczaka kotów (FcaPV-2)**
+- **Potencjał progresji** do raka kolczystokomórkowego lub bazalno-kolczystokomórkowego
+- Zmiany mogą mieć charakter wieloogniskowy
+
+**Zalecenia:**
+- Badanie CISH na FcaPV-2 (chromogenic in situ hybridization)
+- **Konsultacja onkologiczna** - możliwa potrzeba chemioterapii
+
+### Październik-Grudzień 2025: Kontynuacja Leczenia i Kontrolna Endoskopia
+*Źródła: [Wydanie antybiotyku 15.10.2025](https://drive.google.com/file/d/1a9Jzw0eBVkj17FoAqpqbI30y3xQRq3DZ/view?usp=drivesdk), [Raport endoskopia 16.12.2025](https://drive.google.com/file/d/1TTBRWY-vsmuw71NFM_yC1MSvzkDEkKPj/view?usp=drivesdk), [Kontrola po zabiegu 29.12.2025](https://drive.google.com/file/d/1a9Jzw0eBVkj17FoAqpqbI30y3xQRq3DZ/view?usp=drivesdk)*
+
+**Wizyta (15.10.2025):**
+- Wydanie antybiotyku Doxycare (15 tabletek)
+
+**Rozmowa telefoniczna (20.10.2025):**
+- Właściciel wyjechał za granicę bez antybiotyku Charliego
+- Przesłano informację dla weterynarzy za granicą o potrzebie doxycykliny
+
+**Badania przedoperacyjne (27.11.2025):**
+*Źródło: [Morfologia 27.11.2025](https://drive.google.com/file/d/1Q9mUHmzC6Jr02uxGzuSA0zmOdPwWJOo-/view?usp=drivesdk), [Wizyta 27.11.2025](https://drive.google.com/file/d/1v3c_4q-ekVib24ummMZKkCPrl0XxqOIk/view?usp=drivesdk)*
+- Pobrano krew według zaleceń lekarza prowadzącego
+- "Przez całe życia ma problemy z oddychaniem, antybiotyk przestaje działać"
+- Kwalifikacja do znieczulenia ogólnego
+
+**Kontrolna endoskopia (16.12.2025):**
+- Rhinoskopia + biopsja trepanowa ze zmienionej skóry
+- **Nozdrze lewe**: Wejście zwężone, wzmocniony rysunek naczyń, bardzo liczna wydzielina śluzowa, małżowina lekko przebudowana z drobnymi guzkami (zmiany pozapalne), brak jednorodnej zmiany rozrostowej
+- **Nozdrze prawe**: Mniejsza ilość wydzieliny, brak obrzęku i przekrwienia
+- Pobrano bioptaty ze zmienionej skóry na grzbiecie
+- Założono dwa szwy niewchłanialne do zdjęcia za 10 dni
+
+**Wyniki mikrobiologiczne (19.12.2025):**
+*Źródło: [Mycoplasma 19.12.2025](https://drive.google.com/file/d/1PSzra36OYdkiMwxAUiaxkXxThXijjPIT/view?usp=drivesdk)*
+- **Mycoplasma spp. PCR: UJEMNY** ✓ (wyleczona!)
+- Skąpa mikrobiota błon śluzowych górnych dróg oddechowych (fizjologiczna)
+- Brak wzrostu patogenów
+- Brak grzybów drożdżopodobnych
+- Obecnie Charlie czuję się dobrze, ale ma masywny katar
+- Zalecono probiotyk do nosa Rhinobiom
+
+**Kontrola po zabiegu (29.12.2025):**
+- Usunięto szwy, rana zagojona
+- Samopoczucie zachowane, apetyt zmienny
+- Katar nawrócił - gęsta wydzielina
+- Zalecenia: Rhinobiom, inhalacja z solą fizjologiczną i sterydem Nebbud 2x dziennie
+
+### Wrzesień 2025: Badanie Moczu i Konsultacja Onkologiczna
+*Źródła: [Badanie moczu 01.09.2025](https://drive.google.com/file/d/1a9Jzw0eBVkj17FoAqpqbI30y3xQRq3DZ/view?usp=drivesdk), [Konsultacja onkologiczna 12.09.2025](https://drive.google.com/file/d/1a9Jzw0eBVkj17FoAqpqbI30y3xQRq3DZ/view?usp=drivesdk), [Kontrola antybiotyk 29.09.2025](https://drive.google.com/file/d/1a9Jzw0eBVkj17FoAqpqbI30y3xQRq3DZ/view?usp=drivesdk)*
+
+**Badanie moczu (01.09.2025):**
 *Źródło: [Badanie moczu 01.09.2025](https://drive.google.com/file/d/1uBiTqsrsVbPtZZobGxgRTV64dkroIMSZ/view?usp=drivesdk)*
 
 **Analiza moczu (01.09.2025):**
-- Barwa: Jasnoczerwona (niepokojące)
+- Barwa: Jasnoczerwona (właściciel poinformował: dostał marchew kilka dni temu)
 - Ciężar właściwy: 1,030 (prawidłowe zagęszczenie)
 - pH: 6,5
-- Białko: 0,3 g/l (śladowo dodatnie)
-- Kryształy: Szczawiany wapnia dwuwodne (pojedyncze), struwity (pojedyncze)
-- Bakterie: Nieliczne
+- Kryształy: Szczawiany wapnia dwuwodne (pojedyncze), fosforany amonowo-magnezowe (pojedyncze)
+- Flora bakteryjna: Nieliczna
+- Wałeczki drobnoziarniste: Pojedyncze
 - Kropelki lipidowe: Liczne
+- **Ogólne badanie dobre**
+- Zalecono probiotyk Protexin Cythopan jako profilaktyka
 
-### Sierpień 2025: Diagnostyka Zmiany Skórnej
+**Konsultacja onkologiczna (12.09.2025) - dr n.wet. Katarzyna Bugiel-Stabla:**
+- Waga: 4,63 kg
+- Zmiany skórne: Liczne powierzchowne w postaci strupów i krost na karku i szyi
+- Jedna zmiana na szyi ~0,3×0,4mm - ciemna, w postaci wrzodu
+- Pobrano preparaty odciskowe i FNA
+- **Cytologia: Złuszczone komórki naskórka, erytrocyty, nieliczne limfocyty, nieliczne skupiska wydzieliny gruczołowej**
+- Czynników zakaźnych nie uwidoczniono
+- **Leczenie miejscowe**: Chlorhexiderm + Cortavance (rano i wieczór), Rivanol (południe), szampon Hexoderm
+- Stronghold Plus wzdłuż kręgosłupa
+- W razie braku poprawy: posiew mykologiczny
+
+**Wizyta oddechowa (12.09.2025):**
+- Nawrót kataru - ropna wydzielina z nosa
+- **Wdrożono Doxycare 40 mg** (1,25 tabl dziennie przez 2-6 tygodni)
+- Przed zakończeniem: wymaz na Mycoplasma, rozważyć endoskopię i RTG klatki
+- Odstawianie sterydu Hedylon stopniowo
+
+**Kontrola (29.09.2025):**
+- Katar ustąpił po kilku dniach na antybiotyku
+- Od 3 dni drapie się w okolicy szyi
+- Zmiany skórne bez zmian
+- **Cytologia kontrolna: Pojedyncze bakterie, komórki zapalne, POJEDYNCZE KOMÓRKI ATYPOWE** ⚠️
+- Zalecenia: Odstawić Rivanol, antybiotyk do 4-6 tygodnia
+- **Chirurgiczne usunięcie zmian na szyi** (po badaniu krwi), rozważyć endoskopię przy okazji
+
+### Sierpień 2025: Diagnostyka Zmiany Skórnej i USG Pęcherza
+*Źródła: [Cytologia zmiany skórnej 25.07.2025](https://drive.google.com/file/d/1a9Jzw0eBVkj17FoAqpqbI30y3xQRq3DZ/view?usp=drivesdk), [Badanie cytologiczne 01.08.2025](https://drive.google.com/file/d/19GmfMXjmXQejqtEIgM8NsP3X7zSAqPMv/view?usp=drivesdk), [Nawrót kataru + USG pęcherza 29.08.2025](https://drive.google.com/file/d/1a9Jzw0eBVkj17FoAqpqbI30y3xQRq3DZ/view?usp=drivesdk)*
+
+**Cytologia (25.07.2025):**
+- Pobrano materiał cytologii odciskowej ze zmiany na szyi
+- Wystawiono paszport dla Charliego (28.07.2025)
 *Źródło: [Badanie cytologiczne 01.08.2025](https://drive.google.com/file/d/19GmfMXjmXQejqtEIgM8NsP3X7zSAqPMv/view?usp=drivesdk)*
 
-**Cytologia zmiany na szyi (01.08.2025):**
-- Elementy morfotyczne krwi, łuski keratynowe, keratynocyty
-- Niediagnostyczne - zalecona biopsja
+**Wyniki cytologii (01.08.2025):**
+- Elementy morfotyczne krwi, łuski keratynowe, keratynocyty bezjądrzaste
+- Obraz wskazuje na złuszczanie wierzchnich warstw naskórka
+- Niediagnostyczne - zalecona biopsja lub inne metody pobrania
+
+**Wizyta (29.08.2025):**
+- Ponownie wydzielina z nosa (surowicza, gęsta) - w zależności od dnia często lub sporadycznie
+- Dziś rano problem z oddychaniem (prawdopodobnie przez nadmiar gęstej wydzieliny)
+- Nowa zmiana na karku, podobna do tej na szyi
+- **Właściciel zgłosił zmianę w zabarwieniu moczu** ⚠️
+- **USG pęcherza: Liczne hiperechogeniczne złogi w moczu**
+- Węzły chłonne zagardłowe pobudzone
+- Leczenie: Hedylon 5 mg (1/2 tabl dziennie)
+- Zalecono badanie moczu, konsultację onkologiczną (zmiany skórne) i pulmonologiczną
+
+### Lipiec 2025: Szczepienie i Wykluczenie Drobiu z Diety
+*Źródło: [Szczepienie wściekliźnie 04.07.2025](https://drive.google.com/file/d/1a9Jzw0eBVkj17FoAqpqbI30y3xQRq3DZ/view?usp=drivesdk)*
+
+**Wizyta (04.07.2025):**
+- Waga: 4,6 kg
+- Czuje się dobrze
+- **Zmiany skórne: Niewielkie strupki na karku i szyi, ciemna zmiana pod brodą (brodawka)**
+- Brak przeciwwskazań do szczepienia
+- **Szczepienie p-ko wściekliźnie** (Nobivac Rabies, seria A755A01, ważne do 31.05.2028)
+
+**Leczenie zmian skórnych:**
+- Antybiotyk: **Cylanic** 250/62,5 mg (1/4 tabl 2x dziennie)
+- Steryd: **Hedylon 5 mg** (Prednizolon) w dawce stopniowo zmniejszanej
+- **WAŻNE ZALECENIE DIETETYCZNE: Wykluczenie drobiu z diety** (kurczak, indyk, kaczka)
+
+**Wizyta kontrolna (22.07.2025):**
+*Źródło: [Rozmowa tel 22.07.2025](dokumentacja-md/2025_07_22_wizyta_Goldenvet.md)*
+- Charlie skończył antybiotyk
+- Nie drapie się
+- **Katar wyciszony na sterydzie**
+- Kontynuacja Hedylonu 1/4 tabl co 2 dni przez miesiąc
+- Kontrolne badanie krwi 12h na czczo do zrobienia do listopada
+
+### Marzec-Maj 2025: Długotrwała Antybiotykoterapia Doxycykliną
+*Źródła: [Kontynuacja antybiotyku 03.03.2025](https://drive.google.com/file/d/1a9Jzw0eBVkj17FoAqpqbI30y3xQRq3DZ/view?usp=drivesdk), [Wydanie antybiotyku 25.03.2025](https://drive.google.com/file/d/1a9Jzw0eBVkj17FoAqpqbI30y3xQRq3DZ/view?usp=drivesdk), [Nawrót kataru 16.05.2025](https://drive.google.com/file/d/1a9Jzw0eBVkj17FoAqpqbI30y3xQRq3DZ/view?usp=drivesdk)*
+
+**Wizyta (03.03.2025):**
+- **Sytuacja z katarem bardzo się polepszyła!**
+- Obecnie nie ma wydzieliny z nosa i nie kicha
+- 2 tygodnie terapii za nami
+- Kontynuacja Doxycare, bardzo możliwe przedłużenie do 6 tygodni
+
+**Wizyta (25.03.2025):**
+- Wydanie kolejnej dawki antybiotyku (10 tabletek)
+- Zalecono wizytę kontrolną przed zakończeniem terapii
+
+**Zakończenie antybiotykoterapii (11.04.2025):**
+*Źródło: [Wizyta 11.04.2025](https://drive.google.com/file/d/1JTBWCmybxrloyYgNy8izIttNLAj4u1MH/view?usp=drivesdk)*
+- **Mija 7 tygodni antybiotykoterapii**
+- **Od 5 tygodni brak objawów ze strony układu oddechowego!** ✓
+- Czuje się dobrze, bardziej aktywny
+- Koniec antybiotykoterapii po 7 tygodniach
+
+**Nawrót (16.05.2025):**
+- U Charliego nawrót kataru, duża ilość wydzieliny z nosa
+- **Wprowadzono krople do nosa ze sterydem: Nasonex 0,05%**
+- Zakrapiać każdą jamę nosową 2x dziennie
+- Kontynuacja AntiHerpes
+- Do rozważenia wprowadzenie sterydu systemowego
 
 ### Luty 2025: Kontrolne Badanie Nosa
-*Źródło: [Wymaz z nosa 18.02.2025](https://drive.google.com/file/d/1y6eaTEPWTG8ncR10ZapWZCGe-b5iiuVF/view?usp=drivesdk)*
+*Źródła: [Pobranie wymazu 14.02.2025](https://drive.google.com/file/d/1a9Jzw0eBVkj17FoAqpqbI30y3xQRq3DZ/view?usp=drivesdk), [Wyniki wymazu 18.02.2025](dokumentacja-md/2025_02_18_wyniki_wymazu_nosa_Goldenvet.md), [Wymaz z nosa 18.02.2025](https://drive.google.com/file/d/1y6eaTEPWTG8ncR10ZapWZCGe-b5iiuVF/view?usp=drivesdk)*
+
+**Rozmowa telefoniczna z AnimalLab (12.02.2025):**
+- **Laboratorium zagubiło materiał** (wymaz z nosa z 23.01.2025)
+- Konieczne ponowne pobranie
+
+**Pobranie wymazu (14.02.2025):**
+- Waga: 4,7 kg
+- Wykonano ponowne pobranie wymazu z nosa w premedykacji
 
 **Posiew z wymazu z nosa (18.02.2025):**
 - Aspergillus spp.: UJEMNY
 - Bakterie tlenowe: Brak wzrostu
 - Grzyby drożdżopodobne: UJEMNE
+- **Cytologia: Bardzo duża ilość neutrofili zdegenerowanych i bakterii (ziarniaków)**
+- Diagnoza: Liczna flora bakteryjna w jamie nosowej (prawdopodobnie fizjologiczna nadmiernie namnożona)
+- Podejrzenie niedoleczonej Mycoplasmy
+- **Wdrożono Doxycare 40mg** (1,25 tabl 2x dziennie przez 2-6 tygodni) + Azyter krople do nosa
 
 ### Styczeń 2026: Wizyta po antybiotyku
 *Źródło: [Wizyta GoldenVet 08.01.2025](https://drive.google.com/file/d/1vceKgy9sB8GzhjDTMj4lIMLW7RghhLFl/view?usp=drivesdk)*
@@ -188,6 +360,12 @@ Lekarz prowadzący: lek. wet. Imane Sghir
 - Stan ogólny dobry, apetyt zachowany
 - Węzły chłonne: Podżuchwowe prawidłowe, podkolanowe powiększone (szczególnie lewy)
 - Kontynuacja leczenia wspomagającego ImmunActive, FloraBalance
+
+**Wizyta (22.01.2025):**
+*Źródło: [Wizyta 22.01.2025](https://drive.google.com/file/d/1a9Jzw0eBVkj17FoAqpqbI30y3xQRq3DZ/view?usp=drivesdk)*
+- Nawrót wypływu z nosa - wydzielina surowiczo-ropna
+- Węzły chłonne zagardłowe pobudzone
+- Zaplanowano premedykację na następny dzień z pobraniem wymazu
 
 ### Listopad 2024: Endoskopia
 *Źródło: [Endoskopia 29.11.2024](https://drive.google.com/file/d/1VEo_LOTZe93oXq_K-6P8_vy39q-wmFtX/view?usp=drivesdk)*
@@ -261,31 +439,121 @@ Lekarz prowadzący: lek. wet. Imane Sghir
 - **Podejrzenie przebudowy struktur górnych dróg oddechowych na skutek przewlekłego stanu zapalnego**
 - Wdrożono nebulizację Nebbud 0,25 mg/ml 2x dziennie
 
-### Maj 2023 - Sierpień 2024: Przewlekłe Epizody Oddechowe
-*Źródło: [Zdrowy Pupil - podsumowanie 2022-2024](https://drive.google.com/file/d/1fr6toKDIdb-aQDgQW2bCDSr4FWRTaCLR/view?usp=drivesdk) str. 13-20*
+### Luty-Sierpień 2024: Nawracające Epizody Oddechowe
+*Źródła: [Katar 01.02.2024](https://drive.google.com/file/d/1fr6toKDIdb-aQDgQW2bCDSr4FWRTaCLR/view?usp=drivesdk), [Katar zmiana antybiotyku 08.04.2024](https://drive.google.com/file/d/1fr6toKDIdb-aQDgQW2bCDSr4FWRTaCLR/view?usp=drivesdk), [Wymioty 16.04.2024](https://drive.google.com/file/d/1fr6toKDIdb-aQDgQW2bCDSr4FWRTaCLR/view?usp=drivesdk), [Katar wymioty 10.06.2024](https://drive.google.com/file/d/1fr6toKDIdb-aQDgQW2bCDSr4FWRTaCLR/view?usp=drivesdk), [Wymioty 19.06.2024](https://drive.google.com/file/d/1fr6toKDIdb-aQDgQW2bCDSr4FWRTaCLR/view?usp=drivesdk), [Katar 01.08.2024](https://drive.google.com/file/d/1fr6toKDIdb-aQDgQW2bCDSr4FWRTaCLR/view?usp=drivesdk)*
 
-**Nawracający wzorzec:**
-- Ropna wydzielina z nosa
-- Kichanie
-- Utrudnione oddychanie
-- Odpowiedź na antybiotyki (Synulox/Kesium - amoksycylina z kwasem klawulanowym)
-- Nawrót po 1-3 miesiącach
+**Luty 2024 (01.02.2024):**
+- "Powtórka z rozrywki" - katar, kaszel przy jedzeniu
+- Wypływ surowiczo-ropny z nosa
+- Leczenie: Synulox, Kesium, Sinupret w domu
 
-**Zastosowane leczenie:**
-- Wielokrotne kursy antybiotyków (Synulox, Kesium, Shotapen, Cladaxxa)
-- Sinupret (ziołowy mukolityk)
-- Inhalacje z majeranku
-- Suplementy wspierające odporność (ImmunActiv Max)
-- Stressoxan (równoczesny problem z oddawaniem moczu na tle stresowym)
+**Kwiecień 2024 (08.04.2024):**
+- Katar trwa już 2 tygodnie, ropne gluty przy kichaniu
+- **WAŻNA UWAGA: Skrócił się czas między wizytami** w porównaniu do wcześniejszych
+- Zmiana antybiotyku: z Synulox na **Shotapen**
+- Wizyta kontrolna 11.04.2024: Podanie kolejnej dawki
 
-**Posiew z nosa (listopad 2023):**
-*Źródło: [Zdrowy Pupil - podsumowanie 2022-2024](https://drive.google.com/file/d/1fr6toKDIdb-aQDgQW2bCDSr4FWRTaCLR/view?usp=drivesdk) str. 16-17*
+**Kwiecień 2024 (16.04.2024):**
+- Wymioty w nocy i nad ranem
+- Apetyt zachowany, poza tym czuje się dobrze
+- Leczenie objawowe: Cerenia, Acid Balance, Nutrisal
 
-- Brak wzrostu bakterii tlenowych w hodowli
-- Sugeruje infekcję beztlenową lub bakterie chronione biofilmem
+**Czerwiec 2024 (10.06.2024):**
+- Znowu katar, przytył ostatnio (był u rodziców)
+- **Wymioty się zdarzają - przynajmniej raz w miesiącu seria kilkudniowa**
+- Zalecenia: **Gluta z siemienia lnianego**, po zaleczeniu kataru **próba ze sterydem (depo) pod kątem IBD**
+- Leczenie: Synulox, Kesium
 
-### Kwiecień 2023: Diagnostyka Przewodu Pokarmowego
-*Źródła: [Wyniki krwi 26.04.2023](https://drive.google.com/file/d/11aIi4Iu0WeyDa3trzJ2Cj55GYzH3H-qj/view?usp=drivesdk), [Wyniki kału 26.04.2023](https://drive.google.com/file/d/1y3npPPkhQnow00_nrpXAza7DgrkLbhoi/view?usp=drivesdk), [Konsultacja telefoniczna NeuroTeam 26.04.2023](https://drive.google.com/file/d/1JKjg-TWOwUKA26MCPXm1tksaTWGZNYhT/view?usp=drivesdk)*
+**Czerwiec 2024 (19.06.2024):**
+- Wymioty - wodą i karmą
+- Katar minął
+- **UWAGA: Węzły chłonne podkolanowe powiększone, zwłaszcza lewy** ⚠️
+- Za wcześnie od antybiotyku na próbę ze sterydem
+- Leczenie objawowe: No-Spa, Cerenia, Acid Balance
+
+**Sierpień 2024 (01.08.2024):**
+- Nawrót kataru
+- Osłuchowo: nawet nad GDO brzmi lepiej niż zazwyczaj
+- Kot przejściowo u rodziców - brak możliwości inhalacji
+- Leczenie: Cladaxxa
+
+### Listopad-Grudzień 2023: Diagnostyka Mikrobiologiczna Nosa
+*Źródła: [Katar wymaz 06.11.2023](https://drive.google.com/file/d/1fr6toKDIdb-aQDgQW2bCDSr4FWRTaCLR/view?usp=drivesdk), [Wyniki wymazu nosa 09.11.2023](https://drive.google.com/file/d/1fr6toKDIdb-aQDgQW2bCDSr4FWRTaCLR/view?usp=drivesdk), [Katar wymioty 04.12.2023](https://drive.google.com/file/d/1fr6toKDIdb-aQDgQW2bCDSr4FWRTaCLR/view?usp=drivesdk)*
+
+**Wizyta (06.11.2023):**
+- Kicha ropą, kaszle głucho i głęboko
+- Osłuchowo: nad GDO oddech zaostrzony
+- Ogólny stan bardzo dobry
+- Pobranie wymazu z wydzieliny ropnej z nosa (w domu, gdy wykichnie)
+
+**Wyniki posiewu (09.11.2023):**
+- **W badaniu hodowlanym NIE stwierdzono wzrostu bakterii tlenowych**
+- Nie wykonano antybiogramu
+- Diagnoza: Możliwe zakażenie bakteriami beztlenowymi LUB bakterie chronione biofilmem
+- Nie wykluczono zmian w obrębie zatok/jam nosowych (po starym kocim katarze)
+- Proponowano RTG zatok, ewentualnie płukanie
+
+**Wizyta (04.12.2023):**
+- Rezydował u rodziców - dwa dni wymioty i brak apetytu
+- Gluty z nosa, kichanie
+- Wdrożono antybiotyk (Synulox, Kesium)
+- Zaproponowano terapię Zylexisem (immunomodulator)
+
+### Lipiec-Sierpień 2023: Początek Przewlekłych Problemów Oddechowych
+*Źródła: [Katar kaszel 06.07.2023](https://drive.google.com/file/d/1fr6toKDIdb-aQDgQW2bCDSr4FWRTaCLR/view?usp=drivesdk), [Katar 09.08.2023](https://drive.google.com/file/d/1fr6toKDIdb-aQDgQW2bCDSr4FWRTaCLR/view?usp=drivesdk), [Katar antybiotyk 14.08.2023](https://drive.google.com/file/d/1fr6toKDIdb-aQDgQW2bCDSr4FWRTaCLR/view?usp=drivesdk)*
+
+**Pierwsza wizyta oddechowa (06.07.2023):**
+- Ciężko oddycha, słychać nieprzyjemny dźwięk (jakby mokro w nosie)
+- Kicha zwłaszcza po jedzeniu, z nosa nic nie leci
+- Osłuchowo: nad GDO oddech zaostrzony
+- Leczenie: NLPZ, Immunactiv Max, Sinupret 1/2 tabl 2x dziennie, inhalacje z majeranku
+
+**Kontynuacja (09.08.2023):**
+- Trudno oddycha przez nos, robi bajzel przy jedzeniu
+- Z nosa nic nie leci, nad GDO oddech zaostrzony
+- Leczenie: NLPZ na kilka dni, przewlekle wspomagacze odporności
+
+**Eskalacja (14.08.2023):**
+- Wykichał śluz, brak poprawy
+- Widoczny śluz po uciśnięciu dziurki nosa
+- Oddycha ciężko przez zatkany nos
+- Wdrożono **antybiotyk**: Synulox (iniekcja), Kesium 1 tabl 2x dziennie
+- Zalecono Sinupret i inhalacje z majeranku
+
+**Rozmowa telefoniczna (21.08.2023):**
+- **Wykichał bardzo dużo ropy**
+- Dalej kicha, ale już nic z nosa nie leci
+- Utrzymać Sinupret i inhalacje
+
+### Czerwiec 2023: Nawrót Zapalenia Pęcherza na Tle Stresowym
+*Źródło: [Zapalenie pęcherza 13.06.2023](https://drive.google.com/file/d/1fr6toKDIdb-aQDgQW2bCDSr4FWRTaCLR/view?usp=drivesdk)*
+
+**Wizyta (13.06.2023 - dwie wizyty tego samego dnia):**
+- Posikuje poza kuwetą małymi porcjami, bez krwi
+- USG: Pęcherz prawie całkowicie odsikany (pacjent oddał mocz podczas badania)
+- Analiza moczu: pH 6.0, gęstość 1.025, białko 30 mg/dl
+- **UWAGA: Bakterie nieobecne** - różnica od kwietnia!
+- Niezbyt liczne białe krwinki, średnio liczne komórki nabłonka
+- Diagnoza: **Zapalenie pęcherza na tle stresowym**
+- Leczenie: NLPZ (Metacam), No-Spa, zalecono Stresoxan
+
+**Rozmowa telefoniczna (27.06.2023):**
+- Gdy brał Stresoxan - poprawa
+- Po odstawieniu - ponownie sika po kątach
+- Nerwowo wylizuje okolice przedniej łapy i tułowia
+- Zalecono kontynuację Stresoxanu, rozważyć drugą kuwetę
+
+### Kwiecień 2023: Diagnostyka Przewodu Pokarmowego i Zapalenie Pęcherza
+*Źródła: [Zapalenie pęcherza 18.04.2023](https://drive.google.com/file/d/1fr6toKDIdb-aQDgQW2bCDSr4FWRTaCLR/view?usp=drivesdk), [Pobranie krwi i B12 24.04.2023](https://drive.google.com/file/d/1fr6toKDIdb-aQDgQW2bCDSr4FWRTaCLR/view?usp=drivesdk), [Wyniki krwi 26.04.2023](https://drive.google.com/file/d/11aIi4Iu0WeyDa3trzJ2Cj55GYzH3H-qj/view?usp=drivesdk), [Wyniki kału 26.04.2023](https://drive.google.com/file/d/1y3npPPkhQnow00_nrpXAza7DgrkLbhoi/view?usp=drivesdk)*
+
+**Zapalenie pęcherza moczowego (18.04.2023):**
+- Objawy: Posikuje poza kuwetą, męczy się przy oddawaniu moczu
+- Diagnoza: Bakteryjne zapalenie pęcherza
+- USG: Pęcherz miernie wypełniony, nieco pogrubiona ściana
+- Analiza moczu: Bardzo liczne bakterie, średnio liczne białe krwinki, białko 30 mg/dl
+- Leczenie: Synulox (iniekcja), Cladaxxa, Urinovet
+
+**Badania laboratoryjne (24-25.04.2023):**
 
 **Badanie kału (25.04.2023):**
 - **Witamina B12**: 605 pg/ml (NISKA, ref: 900-2800) - wskazuje na chorobę jelita krętego/zaburzenia wchłaniania
@@ -321,6 +589,34 @@ Lekarz prowadzący: lek. wet. Imane Sghir
 - Lipaza: 25 U/l (prawidłowa)
 
 **Znaczenie kliniczne**: Utrzymująca się leukopenia i neutropenia potwierdzają przewlekłe zaburzenie hematopoizy. Niska kreatynina przy normalnym BUN i podwyższonym stosunku BUN/Kreatynina sugeruje zaburzenia reabsorpcji/funkcji tubularnej nerek.
+
+### Luty-Marzec 2023: Rehabilitacja i Monitorowanie Neurologiczne
+*Źródła: [Wydanie leków 28.02.2023](https://drive.google.com/file/d/1fr6toKDIdb-aQDgQW2bCDSr4FWRTaCLR/view?usp=drivesdk), [Pobranie krwi 08.03.2023](https://drive.google.com/file/d/1fr6toKDIdb-aQDgQW2bCDSr4FWRTaCLR/view?usp=drivesdk), [Rehabilitacja 11.03.2023](https://drive.google.com/file/d/1fr6toKDIdb-aQDgQW2bCDSr4FWRTaCLR/view?usp=drivesdk), [Kontrola 17.03.2023](https://drive.google.com/file/d/1fr6toKDIdb-aQDgQW2bCDSr4FWRTaCLR/view?usp=drivesdk), [Kontrola 23.03.2023](https://drive.google.com/file/d/1fr6toKDIdb-aQDgQW2bCDSr4FWRTaCLR/view?usp=drivesdk)*
+
+**Kontynuacja leczenia neurologicznego (28.02.2023):**
+- Wydanie leków: Boflox Flavour, Flora Balance
+- Terapia zgodna z zaleceniami lekarza prowadzącego
+
+**Program rehabilitacji (11.03.2023 - WAŻNE):**
+Rozpoczęto kompleksowy program rehabilitacji domowej obejmujący:
+- Masaż leczniczy (pyszczek, uszy, szyja, wzdłuż kręgosłupa, kończyny)
+- Stretching wszystkich stawów kończyn
+- Szczotkowanie opuszek (trzy rodzaje szczotek)
+- Bieżnię wodną (przygotowanie stopniowe, temperatura 38°C)
+- Sesje 2x dziennie, każda ~15 minut
+
+**Kontrola rehabilitacyjna (17.03.2023):**
+- Charlie nie daje się masować w domu, ale uwielbia szczotkowanie łapek
+- Czucie: przód normalne, **tył zwłaszcza prawa strona mniejsze**
+- Rozciąganie: przód OK, tył prawa strona gorzej
+- Zalecono próbować masaż na stole zamiast na łóżku
+
+**Kontrola rehabilitacyjna (23.03.2023):**
+- Czucie w tylnych łapach lepsze niż przy ostatniej kontroli
+- Rozciąganie: prawy i lewy na tym samym poziomie
+- **UWAGA: Utrata masy ciała z 3,8 kg na 3,2 kg** ⚠️
+- Pobrano krew do badań kontrolnych ([wyniki 24.03.2023](https://drive.google.com/file/d/100BztocvdYfyKLB-mh3Ly3ZM8cjgbvHR/view?usp=drivesdk))
+- Suplementacja: Flora Balance, Hemoactiv, Stressoxan
 
 ### Luty-Kwiecień 2023: Leczenie i Rehabilitacja
 *Źródła: [Konsultacja NeuroTeam 13.02.2023](https://drive.google.com/file/d/1odcSWwDaEOFcNm_TLunWW8Ofod5odJkC/view?usp=drivesdk), [Konsultacja dr Hildebrand 06.03.2023](https://drive.google.com/file/d/1w5APg8V8ZhrIopg97sn3Y8Px8lOfMMKj/view?usp=drivesdk), [Zdrowy Pupil - podsumowanie 2022-2024](https://drive.google.com/file/d/1fr6toKDIdb-aQDgQW2bCDSr4FWRTaCLR/view?usp=drivesdk) str. 7-10*
@@ -512,4 +808,4 @@ Lekarz prowadzący: lek. wet. Imane Sghir
 
 ---
 
-[← Aktualny Stan](current-state.md) | [Strona główna](index.md) | [Wyniki Badań →](lab-results.md)
+[← Leczenie](treatment.md) | [Strona główna](index.md) | [Wyniki Badań →](lab-results.md)

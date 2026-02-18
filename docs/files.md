@@ -1,6 +1,6 @@
 ---
 title: "Dokumenty"
-nav_order: 5
+nav_order: 6
 ---
 
 {: .warning }
@@ -94,22 +94,57 @@ nav_order: 5
 - [2026_01_29 - konsultacja onkologiczna.pdf](https://drive.google.com/file/d/1-SPo1d2gm6434sb32Ksi9ocRIvlI1hek/view?usp=drivesdk) - Konsultacja onkologiczna NeoVet
 
 ### 7. Konsultacje i wizyty
-- [2022_10_31 - zapalenie pęcherza - konsultacje i wyniki badań - ZdrowyPupil.pdf](https://drive.google.com/file/d/15kS81hFwaKBJMtzfnyhj95lGpJEhvyk1/view?usp=drivesdk) - Zapalenie pęcherza
-- [2022_12_23 - konsultacja - ZdrowyPupil.pdf](https://drive.google.com/file/d/1GT7MktyfZBzHi0VgP-3n3PZJegEt_L-4/view?usp=drivesdk) - Konsultacja neurologiczna
-- [2023_03_06 - konsultacja dr Hildebrand - NeoVet.pdf](https://drive.google.com/file/d/1w5APg8V8ZhrIopg97sn3Y8Px8lOfMMKj/view?usp=drivesdk) - Konsultacja specjalistyczna
-- [2024_09_25 - wizyta Goldenvet.pdf](https://drive.google.com/file/d/1t9FEjiZTdKoEceoywBc0jb49jR1dLZNn/view?usp=drivesdk)
-- [2024_10_04 - wizyta Goldenvet.pdf](https://drive.google.com/file/d/1u-Odh7PrzsaF0xtPj0hkNUl-oY8r2sAH/view?usp=drivesdk)
-- [2024_10_10 - wizyta Goldenvet.pdf](https://drive.google.com/file/d/1rMzd2djMwGZ57-7TyV_P48jwZXpdzOSS/view?usp=drivesdk)
-- [2024_12_06 - wizyta Goldenvet.pdf](https://drive.google.com/file/d/1-s8M3XX7ZI_T_hmOfAz3eDMuBPEALOSw/view?usp=drivesdk)
-- [2025_01_08 - wizyta Goldenvet.pdf](https://drive.google.com/file/d/1vceKgy9sB8GzhjDTMj4lIMLW7RghhLFl/view?usp=drivesdk)
-- [2025_01_23 - wizyta Goldenvet.pdf](https://drive.google.com/file/d/1vP1xcUCRd8JBsIpMVdBsNVCw1lrIBoDV/view?usp=drivesdk)
-- [2025_02_18 - wizyta Goldenvet.pdf](https://drive.google.com/file/d/1OZ3CBJQK3368L6zZfkPIEOMWOpVF_44R/view?usp=drivesdk)
-- [2025_04_11 - wizyta Goldenvet.pdf](https://drive.google.com/file/d/1JTBWCmybxrloyYgNy8izIttNLAj4u1MH/view?usp=drivesdk)
-- [2025_04_14 - wizyta Goldenvet.pdf](https://drive.google.com/file/d/1fESjgZAgwnqN7fI8RG_zX7RCaGwQjl6e/view?usp=drivesdk)
-- [2025_05_05 - wizyta Goldenvet.pdf](https://drive.google.com/file/d/1oSTR_effojyIzJGWIoxc3148wvNTFVlR/view?usp=drivesdk)
-- [2025_07_22 - wizyta Goldenvet.pdf](https://drive.google.com/file/d/1kYEohfjy1RrdBzq-FQhMcaTNPWrv4f8R/view?usp=drivesdk)
-- [2025_11_27 - wizyta Goldenvet.pdf](https://drive.google.com/file/d/1v3c_4q-ekVib24ummMZKkCPrl0XxqOIk/view?usp=drivesdk)
-- [2025_12_16 - wizyta Goldenvet.pdf](https://drive.google.com/file/d/1b5Jc1oqzOx_g1gXFhpjd9FDP_vOEyGjZ/view?usp=drivesdk)
+
+- [2022-10-31 - Zapalenie pęcherza](https://drive.google.com/file/d/15kS81hFwaKBJMtzfnyhj95lGpJEhvyk1/view?usp=drivesdk) - Zapalenie pęcherza - konsultacje i wyniki badań
+- [2022-12-23 - Konsultacja neurologiczna](https://drive.google.com/file/d/1GT7MktyfZBzHi0VgP-3n3PZJegEt_L-4/view?usp=drivesdk) - ZdrowyPupil
+- [2023-02-28 - Wydanie leków](https://drive.google.com/file/d/1fr6toKDIdb-aQDgQW2bCDSr4FWRTaCLR/view?usp=drivesdk) - Po konsultacji neurologicznej
+- [2023-03-06 - Konsultacja dr Hildebrand](https://drive.google.com/file/d/1w5APg8V8ZhrIopg97sn3Y8Px8lOfMMKj/view?usp=drivesdk) - NeoVet (specjalistyczna)
+- [2023-03-08 - Pobranie krwi](https://drive.google.com/file/d/1fr6toKDIdb-aQDgQW2bCDSr4FWRTaCLR/view?usp=drivesdk) - Morfologia, IDEXX, Vit B12
+- [2023-03-11 - Rehabilitacja](https://drive.google.com/file/d/1fr6toKDIdb-aQDgQW2bCDSr4FWRTaCLR/view?usp=drivesdk) - Program rehabilitacji domowej
+- [2023-03-17 - Kontrola rehabilitacji](https://drive.google.com/file/d/1fr6toKDIdb-aQDgQW2bCDSr4FWRTaCLR/view?usp=drivesdk) - Postępy rehabilitacji
+- [2023-03-23 - Kontrola rehabilitacji](https://drive.google.com/file/d/1fr6toKDIdb-aQDgQW2bCDSr4FWRTaCLR/view?usp=drivesdk) - Utrata wagi (3.8→3.2 kg)
+- [2023-04-18 - Zapalenie pęcherza](https://drive.google.com/file/d/1fr6toKDIdb-aQDgQW2bCDSr4FWRTaCLR/view?usp=drivesdk) - Z analizą moczu
+- [2023-04-24 - Pobranie krwi i witamina B12](https://drive.google.com/file/d/1fr6toKDIdb-aQDgQW2bCDSr4FWRTaCLR/view?usp=drivesdk) - Niska B12 (605) i pierwsza iniekcja B12
+- [2023-06-13 - Zapalenie pęcherza](https://drive.google.com/file/d/1fr6toKDIdb-aQDgQW2bCDSr4FWRTaCLR/view?usp=drivesdk) - Stresowe zapalenie pęcherza
+- [2023-07-06 - Katar i kaszel](https://drive.google.com/file/d/1fr6toKDIdb-aQDgQW2bCDSr4FWRTaCLR/view?usp=drivesdk) - Pierwsza wizyta z powodu kichania
+- [2023-08-09 - Katar](https://drive.google.com/file/d/1fr6toKDIdb-aQDgQW2bCDSr4FWRTaCLR/view?usp=drivesdk) - Kontynuacja leczenia kataru
+- [2023-08-14 - Katar i antybiotyk](https://drive.google.com/file/d/1fr6toKDIdb-aQDgQW2bCDSr4FWRTaCLR/view?usp=drivesdk) - Gęsta wydzielina z nosa, antybiotyk
+- [2023-11-06 - Katar, wymaz](https://drive.google.com/file/d/1fr6toKDIdb-aQDgQW2bCDSr4FWRTaCLR/view?usp=drivesdk) - Pobranie wymazu z nosa
+- [2023-11-09 - Wyniki wymazu nosa](https://drive.google.com/file/d/1fr6toKDIdb-aQDgQW2bCDSr4FWRTaCLR/view?usp=drivesdk) - Negatywny posiew bakteriologiczny
+- [2023-12-04 - Katar i wymioty](https://drive.google.com/file/d/1fr6toKDIdb-aQDgQW2bCDSr4FWRTaCLR/view?usp=drivesdk) - Katar i wymioty treścią pokarmową
+- [2024-02-01 - Katar](https://drive.google.com/file/d/1fr6toKDIdb-aQDgQW2bCDSr4FWRTaCLR/view?usp=drivesdk) - Nawrót kataru
+- [2024-04-08 - Katar, zmiana antybiotyku](https://drive.google.com/file/d/1fr6toKDIdb-aQDgQW2bCDSr4FWRTaCLR/view?usp=drivesdk) - Zmiana na Shotapen
+- [2024-04-16 - Wymioty](https://drive.google.com/file/d/1fr6toKDIdb-aQDgQW2bCDSr4FWRTaCLR/view?usp=drivesdk) - Wymioty treścią pokarmową
+- [2024-06-10 - Katar i wymioty](https://drive.google.com/file/d/1fr6toKDIdb-aQDgQW2bCDSr4FWRTaCLR/view?usp=drivesdk) - Podejrzenie IBD
+- [2024-06-19 - Wymioty](https://drive.google.com/file/d/1fr6toKDIdb-aQDgQW2bCDSr4FWRTaCLR/view?usp=drivesdk) - Wymioty z powiększonymi węzłami chłonnymi
+- [2024-08-01 - Katar](https://drive.google.com/file/d/1fr6toKDIdb-aQDgQW2bCDSr4FWRTaCLR/view?usp=drivesdk) - Ostatnia wizyta w ZdrowyPupil
+- [2024-09-25 - Wizyta](https://drive.google.com/file/d/1t9FEjiZTdKoEceoywBc0jb49jR1dLZNn/view?usp=drivesdk) - GoldenVet
+- [2024-10-04 - Wizyta](https://drive.google.com/file/d/1u-Odh7PrzsaF0xtPj0hkNUl-oY8r2sAH/view?usp=drivesdk) - GoldenVet
+- [2024-10-10 - Wizyta](https://drive.google.com/file/d/1rMzd2djMwGZ57-7TyV_P48jwZXpdzOSS/view?usp=drivesdk) - GoldenVet
+- [2024-12-06 - Wizyta](https://drive.google.com/file/d/1-s8M3XX7ZI_T_hmOfAz3eDMuBPEALOSw/view?usp=drivesdk) - GoldenVet
+- [2025-01-08 - Wizyta](https://drive.google.com/file/d/1vceKgy9sB8GzhjDTMj4lIMLW7RghhLFl/view?usp=drivesdk) - GoldenVet
+- [2025-01-22 - Wizyta](https://drive.google.com/file/d/1a9Jzw0eBVkj17FoAqpqbI30y3xQRq3DZ/view?usp=drivesdk) - Nawrót kataru, pierwsza wizyta w GoldenVet
+- [2025-01-23 - Wizyta](https://drive.google.com/file/d/1vP1xcUCRd8JBsIpMVdBsNVCw1lrIBoDV/view?usp=drivesdk) - GoldenVet
+- [2025-02-14 - Pobranie wymazu nosa](https://drive.google.com/file/d/1a9Jzw0eBVkj17FoAqpqbI30y3xQRq3DZ/view?usp=drivesdk) - Ponowny wymaz (lab zgubiło próbki)
+- [2025-02-18 - Wizyta](https://drive.google.com/file/d/1OZ3CBJQK3368L6zZfkPIEOMWOpVF_44R/view?usp=drivesdk) - GoldenVet
+- [2025-03-03 - Kontynuacja antybiotyku](https://drive.google.com/file/d/1a9Jzw0eBVkj17FoAqpqbI30y3xQRq3DZ/view?usp=drivesdk) - Poprawa na antybiotyku
+- [2025-03-25 - Wydanie antybiotyku](https://drive.google.com/file/d/1a9Jzw0eBVkj17FoAqpqbI30y3xQRq3DZ/view?usp=drivesdk) - Wydanie Doxycare
+- [2025-04-11 - Wizyta](https://drive.google.com/file/d/1JTBWCmybxrloyYgNy8izIttNLAj4u1MH/view?usp=drivesdk) - GoldenVet
+- [2025-04-14 - Wizyta](https://drive.google.com/file/d/1fESjgZAgwnqN7fI8RG_zX7RCaGwQjl6e/view?usp=drivesdk) - GoldenVet
+- [2025-05-05 - Wizyta](https://drive.google.com/file/d/1oSTR_effojyIzJGWIoxc3148wvNTFVlR/view?usp=drivesdk) - GoldenVet
+- [2025-05-16 - Nawrót kataru](https://drive.google.com/file/d/1a9Jzw0eBVkj17FoAqpqbI30y3xQRq3DZ/view?usp=drivesdk) - Włączenie Nasonex (sterydowe krople)
+- [2025-07-04 - Szczepienie wścieklizny](https://drive.google.com/file/d/1a9Jzw0eBVkj17FoAqpqbI30y3xQRq3DZ/view?usp=drivesdk) - Szczepienie + zmiana diety (wykluczenie drobiu)
+- [2025-07-22 - Wizyta](https://drive.google.com/file/d/1kYEohfjy1RrdBzq-FQhMcaTNPWrv4f8R/view?usp=drivesdk) - GoldenVet
+- [2025-07-25 - Cytologia zmiany skórnej](https://drive.google.com/file/d/1a9Jzw0eBVkj17FoAqpqbI30y3xQRq3DZ/view?usp=drivesdk) - Badanie cytologiczne zmian na szyi + paszport
+- [2025-08-29 - Nawrót kataru i USG pęcherza](https://drive.google.com/file/d/1a9Jzw0eBVkj17FoAqpqbI30y3xQRq3DZ/view?usp=drivesdk) - USG pęcherza (kryształy)
+- [2025-09-01 - Badanie moczu](https://drive.google.com/file/d/1a9Jzw0eBVkj17FoAqpqbI30y3xQRq3DZ/view?usp=drivesdk) - Badanie moczu z dobrymi wynikami
+- [2025-09-12 - Konsultacja onkologiczna](https://drive.google.com/file/d/1a9Jzw0eBVkj17FoAqpqbI30y3xQRq3DZ/view?usp=drivesdk) - Konsultacja onkologiczna + nawrót kataru
+- [2025-09-29 - Kontrola na antybiotyku](https://drive.google.com/file/d/1a9Jzw0eBVkj17FoAqpqbI30y3xQRq3DZ/view?usp=drivesdk) - Komórki atypowe w cytologii
+- [2025-10-15 - Wydanie antybiotyku](https://drive.google.com/file/d/1a9Jzw0eBVkj17FoAqpqbI30y3xQRq3DZ/view?usp=drivesdk) - Wydanie Doxycare (właściciel za granicą)
+- [2025-11-27 - Wizyta](https://drive.google.com/file/d/1v3c_4q-ekVib24ummMZKkCPrl0XxqOIk/view?usp=drivesdk) - GoldenVet
+- [2025-12-16 - Wizyta](https://drive.google.com/file/d/1b5Jc1oqzOx_g1gXFhpjd9FDP_vOEyGjZ/view?usp=drivesdk) - GoldenVet
+- [2025-12-29 - Kontrola po zabiegu](https://drive.google.com/file/d/1a9Jzw0eBVkj17FoAqpqbI30y3xQRq3DZ/view?usp=drivesdk) - Kontrola po endoskopii i usunięciu zmian skórnych
+- [2026-01-27 - Wyniki histopatologii](https://drive.google.com/file/d/1a9Jzw0eBVkj17FoAqpqbI30y3xQRq3DZ/view?usp=drivesdk) - Diagnoza: Rak in situ typu bowenoidnego
 
 ---
 
@@ -118,9 +153,9 @@ nav_order: 5
 
 | Pole | Wartość |
 |------|---------|
-| Ostatnia aktualizacja | 16 lutego 2026 |
+| Ostatnia aktualizacja | 17 lutego 2026 |
 | Na podstawie dokumentacji z okresu | Październik 2022 - Luty 2026 |
-| Liczba dokumentów źródłowych | 60 plików PDF |
+| Liczba dokumentów źródłowych | 60 plików PDF + 34 pliki markdown (94 dokumenty) |
 
 
 ---
