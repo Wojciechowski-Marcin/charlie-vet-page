@@ -13,11 +13,14 @@ nav_order: 3
 
 ---
 
-## Aktualne Leki i Suplementy (stan na luty 2026)
+## Aktualne Leki i Suplementy (stan na 21.02.2026)
 
 | Lek/Suplement | Dawka | Częstotliwość | Cel | Uwagi |
 | ------------- | ----- | ------------- | --- | ----- |
-| **GenoMune** (ScanVet) | 2 ml | 1x dziennie rano | Immunostymulacja (BISC), możliwa korekta neutropenii | **NOWE 02.2026**: Beta-1,3/1,6-D-glukan z Pleurotus ostreatus; schemat: 3 mies. suplementacji + 1 mies. przerwy |
+| **GenoMune** (ScanVet) | 2 ml | 1x dziennie rano | Immunostymulacja (BISC), możliwa korekta neutropenii | Beta-1,3/1,6-D-glukan z Pleurotus ostreatus; schemat: 3 mies. suplementacji + 1 mies. przerwy |
+| **Neosynephrine** (krople do nosa) | 4 krople do każdego nozdrza | 2x dziennie | Obkurczenie błony śluzowej (FICR) | **NOWE 21.02.2026** - Vivawet |
+| **Nebbud 0,25 mg/ml** (zawiesina do nebulizacji) | 2 ml | 1x dziennie | Inhalacja (FICR) | **NOWE 21.02.2026** - Vivawet; wydano 20 ampułek |
+| Mufluilrano | wg zaleceń | 1x dziennie | Inhalacja mukolityczna (FICR) | Kontynuacja dotychczasowej terapii |
 | Rhinobiom | wg zaleceń | 1x dziennie | Probiotyk do jamy nosowej (FICR) | Modulacja mikrobioty nosowej |
 | FloraBalance | 1 kapsułka | 1x dziennie | Probiotyk jelitowy (IBD) | Wsparcie mikrobioty jelitowej |
 | Flegamina | 2,4 ml | 1x dziennie | Rozrzedzenie śluzu (FICR) | Mukolityk |
@@ -68,6 +71,8 @@ Ta sekcja zawiera chronologiczną historię stosowanych leków, ich skutecznośc
 | 16.05.2025 | Nasonex 0,05% (krople do nosa ze sterydem)<br>Anti-Herpes | Nawrót kataru, duża ilość wydzieliny | Wspomagające | - | [Nawrót](https://drive.google.com/file/d/1a9Jzw0eBVkj17FoAqpqbI30y3xQRq3DZ/view?usp=drivesdk) |
 | 29.08.2025 | Hedylon 5mg (Prednizolon - steryd systemowy) | Nawrót kataru | Katar wyciszony | Wspomagające | [Nawrót](https://drive.google.com/file/d/1a9Jzw0eBVkj17FoAqpqbI30y3xQRq3DZ/view?usp=drivesdk) |
 | 12.09.2025 | **Doxycare (Doksycyklina)** - DRUGA TERAPIA<br>1 i 1/4 tabl./dzień | Nawrót kataru | **Bardzo dobry** - katar ustąpił po kilku dniach | **2-6 tygodni** (do końca października) | [Konsultacja](https://drive.google.com/file/d/1a9Jzw0eBVkj17FoAqpqbI30y3xQRq3DZ/view?usp=drivesdk), [Kontrola](https://drive.google.com/file/d/1a9Jzw0eBVkj17FoAqpqbI30y3xQRq3DZ/view?usp=drivesdk) |
+
+| 21.02.2026 | **Neosynephrine** (krople obkurczające)<br>**Nebbud 0,25 mg/ml** (nebulizacja, budezonid?)<br>**Mufluilrano** (mukolityk, kontynuacja) | Przewlekłe objawy nosowe, zatykanie; nowa klinika Vivawet | Nie dotyczy - leczenie objawowe, ocena w toku | - | [Vivawet](https://drive.google.com/file/d/1XtdVb2-n6FPDU6PZwoiK21tAfPXdPzUe/view?usp=drivesdk) |
 
 **Kluczowe wnioski:**
 - **Najskuteczniejszy**: Doksycyklina (długoterminowa) - dwie terapie (01-04.2025 i 09-10.2025), wyleczyła Mycoplasma (PCR ujemny 19.12.2025)

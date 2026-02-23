@@ -145,6 +145,7 @@ nav_order: 6
 - [2025-12-16 - Wizyta](https://drive.google.com/file/d/1b5Jc1oqzOx_g1gXFhpjd9FDP_vOEyGjZ/view?usp=drivesdk) - GoldenVet
 - [2025-12-29 - Kontrola po zabiegu](https://drive.google.com/file/d/1a9Jzw0eBVkj17FoAqpqbI30y3xQRq3DZ/view?usp=drivesdk) - Kontrola po endoskopii i usunięciu zmian skórnych
 - [2026-01-27 - Wyniki histopatologii](https://drive.google.com/file/d/1a9Jzw0eBVkj17FoAqpqbI30y3xQRq3DZ/view?usp=drivesdk) - Diagnoza: Rak in situ typu bowenoidnego
+- [2026-02-21 - Konsultacja Vivawet](https://drive.google.com/file/d/1XtdVb2-n6FPDU6PZwoiK21tAfPXdPzUe/view?usp=drivesdk) - Pierwsza wizyta; nowe leczenie nosa (Neosynephrine, Nebbud); waga 4,3 kg
 
 ---
 
@@ -153,9 +154,9 @@ nav_order: 6
 
 | Pole | Wartość |
 |------|---------|
-| Ostatnia aktualizacja | 17 lutego 2026 |
+| Ostatnia aktualizacja | 23 lutego 2026 |
 | Na podstawie dokumentacji z okresu | Październik 2022 - Luty 2026 |
-| Liczba dokumentów źródłowych | 60 plików PDF + 34 pliki markdown (94 dokumenty) |
+| Liczba dokumentów źródłowych | 61 plików PDF + 34 pliki markdown (95 dokumentów) |
 
 
 ---

@@ -17,6 +17,25 @@ nav_order: 4
 {:toc}
 
 ## Chronologiczna Historia Medyczna
+### Luty 2026: Konsultacja w Nowej Klinice - Vivawet
+*Źródło: [Konsultacja Vivawet 21.02.2026](https://drive.google.com/file/d/1XtdVb2-n6FPDU6PZwoiK21tAfPXdPzUe/view?usp=drivesdk)*
+
+**Pierwsza wizyta w Przychodni Vivawet (21.02.2026):**
+Lekarz: (nie podano w dokumentacji)
+
+- **Waga: 4,3 kg** ↑ (wzrost z 3,95 kg w 01.2026 - poprawa stanu odżywienia) ✓
+- Właścicielka zgłosiła utrzymujące się zatykanie nosa uniemożliwiające sen
+- Aktualna terapia w dniu wizyty: Mufluilrano (wziewnie), Rhinobiom, inhalacje z solą fizjologiczną
+- Samopoczucie spokojniejsze niż wcześniej; apetyt zmienny (zależny od podawanego jedzenia)
+
+**Nowe zalecenia:**
+- **Neosynephrine** (krople): 4 krople do każdego nozdrza 2x dziennie
+- **Nebbud 0,5** (nebulizacja): 1x dziennie
+- **Mufluilrano** (inhalacja): kontynuacja 1x dziennie
+- **Skierowanie do pulmonologa** dr Aleksandry Czumak
+
+---
+
 ### Luty 2026: Badania Obrazowe - RTG i USG
 *Źródło: [Opis USG i RTG 12.02.2026](https://drive.google.com/file/d/12Wt4RwfimBcPD0CNpXmM8MxuQlSCIRY4/view?usp=drivesdk)*
 
@@ -54,8 +73,6 @@ Lekarz prowadzący: lek.wet. Kamila Molenda
 - Brak zmian przerzutowych w płucach (dobra wiadomość w kontekście raka)
 - Potwierdzone przewlekłe zapalenie jelit
 - Nowo zdiagnozowana hepatomegalia ze stłuszczeniem - wymaga monitorowania
-
----
 
 ### Styczeń 2026: Konsultacja Onkologiczna
 *Źródło: [Konsultacja onkologiczna 29.01.2026](https://drive.google.com/file/d/1-SPo1d2gm6434sb32Ksi9ocRIvlI1hek/view?usp=drivesdk)*
@@ -802,6 +819,7 @@ Rozpoczęto kompleksowy program rehabilitacji domowej obejmujący:
 | NeoVet       | Wrocław     | Diagnostyka obrazowa, Kardiologia | lek. wet. Jan Lorenc, lek. wet. Karolina Kapturska    |
 | GoldenVet    | Wrocław     | Choroby wewnętrzne, Endoskopia    | lek. wet. Natalia Szlęk, lek. wet. Agnieszka Rudnicka |
 | Archivet     | Wrocław     | Laboratorium, Podstawowa opieka   | lek. wet. Marcin Gaweł                                |
+| Vivawet (Przychodnia Weterynaryjna Viva Pasikowska) | Wrocław | Podstawowa opieka | tel. 503 103 404; pierwsza wizyta 21.02.2026 |
 
 ---
 

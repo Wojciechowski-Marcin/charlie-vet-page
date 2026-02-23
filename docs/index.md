@@ -27,7 +27,7 @@ nav_order: 1
 > - **Jest narzędziem pomocniczym** — ma na celu ułatwienie dostępu do historii medycznej i wspieranie komunikacji z weterynarzami
 > - **Zawsze weryfikuj z oryginalnymi dokumentami** — w razie wątpliwości sprawdź źródłowe pliki PDF
 >
-> Ostatnia aktualizacja: **18 lutego 2026**
+> Ostatnia aktualizacja: **23 lutego 2026**
 
 ---
 
@@ -42,7 +42,7 @@ nav_order: 1
 | **Płeć**           | Samiec kastrowany                                         |
 | **Data urodzenia** | Około styczeń 2015                                        |
 | **Aktualny wiek**  | 10 lat 2 miesiące (stan na styczeń 2026)                  |
-| **Masa ciała**     | **3,95 kg** (spadek z 4,5-4,7 kg - stan na 29.01.2026) ⚠️ |
+| **Masa ciała**     | **4,3 kg** (↑ wzrost z 3,95 kg - stan na 21.02.2026) ✓    |
 | **Umaszczenie**    | Smoky grey / bura                                         |
 
 ---
@@ -58,12 +58,13 @@ nav_order: 1
 | 4 | **Problemy Gastroenterologiczne (IBD + Hepatomegalia)** | IBD potwierdzone USG (02.2026), stłuszczenie wątroby | ŚREDNI | 12.02.2026 - USG |
 | 5 | **Przewlekła Leukopenia/Neutropenia** | Utrzymująca się, WBC 3,55 G/l (11.2025) | Niski/ŚREDNI | 27.11.2025 - Morfologia |
 
-**Aktywne działania (od 17.02.2026):**
+**Aktywne działania (aktualizacja 21.02.2026):**
 - ✅ RTG/USG wykonane 12.02.2026 - **brak przerzutów**, narządy wewnętrzne bez zmian nowotworowych
 - ✅ Badanie FcaPV-2 - lekarz prowadzący zdecydował o rezygnacji (diagnoza kliniczna wystarczająca)
+- ✅ Waga wzrosła do **4,3 kg** (z 3,95 kg w 01.2026) - poprawa stanu odżywienia
 - **Obserwacja BISC** - kontrola za 1 miesiąc (marzec 2026), monitorowanie progresji zmian skórnych
 - **GenoMune (beta-glukan)** - suplementacja immunostymulująca: 2 ml/dzień (3 mies. suplementacja, 1 mies. przerwa)
-- Monitorowanie masy ciała (spadek ~12-15% do 3,95 kg - możliwy związek z IBD/hepatopatią)
+- **FICR (nos)** - nowa klinika Vivawet (21.02.2026): Neosynephrine krople + Nebbud inhalacje; skierowanie do pulmonologa dr Aleksandry Czumak
 - Rozważyć kontrolną morfologię po 4-6 tygodniach suplementacji GenoMune (ocena wpływu na neutropenię)
 
 **Wzajemne powiązania problemów — istotne dla planowania leczenia:**
