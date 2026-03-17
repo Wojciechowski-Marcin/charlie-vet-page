@@ -115,10 +115,21 @@ nav_order: 2
   - Brak jednorodnej zmiany rozrostowej typu polipa
 - **19.12.2025**: Wyniki mikrobiologiczne - **Mycoplasma spp. PCR UJEMNY** (wyleczona!), flora fizjologiczna, brak patogenów - [Mycoplasma](https://drive.google.com/file/d/1PSzra36OYdkiMwxAUiaxkXxThXijjPIT/view?usp=drivesdk)
 
+*Nowa klinika Vivawet i konsultacja pulmonologiczna (luty-marzec 2026):*
+- **21.02.2026**: Pierwsza wizyta Vivawet - zatykanie nosa, nowe leczenie (Neosynephrine, Nebbud, Mufluilrano); skierowanie do pulmonologa - [Vivawet](https://drive.google.com/file/d/1XtdVb2-n6FPDU6PZwoiK21tAfPXdPzUe/view?usp=drivesdk)
+- **07.03.2026**: **Konsultacja pulmonologiczna** (lek.wet. Aleksandra Czumak, Vivawet) - [Konsultacja pulmonolog](https://drive.google.com/file/d/1TXlHApK672I206nveed2OPiGllPiXIiM/view?usp=drivesdk):
+  - **USG płuc**: Prawidłowe — obustronnie prawidłowy objaw ślizgania, artefakty linii A, brak artefaktów pionowych, linia opłucnej prawidłowa
+  - **Podejrzenie**: **Limfocytarno-plazmocytarne zapalenie błony śluzowej nosa** — choroba **niewyleczalna**
+  - Do potwierdzenia potrzebne badanie **histopatologiczne bioptatu z błony śluzowej jamy nosowej**
+  - Fenylefryna — stosować doraźnie (przewlekłe stosowanie wysusza śluzówkę i może zwiększać obrzęk)
+  - Do rozważenia: terapia **Zylexis** (3 podania: dzień 1, 3, 10) + doustna terapia przeciwalergiczna
+  - Przy zaostrzeniach: **Convenia** w iniekcji (antybiotyk, działa 14 dni)
+
 *Podsumowanie i analiza patofizjologiczna:*
 
 **Charakterystyka choroby:**
-- **Diagnoza**: Przewlekłe zapalenie zatok/nosa u kotów (Feline Idiopathic Chronic Rhinosinusitis, FICR) — diagnoza z wykluczenia
+- **Diagnoza robocza**: Przewlekłe zapalenie zatok/nosa u kotów (Feline Idiopathic Chronic Rhinosinusitis, FICR) — diagnoza z wykluczenia
+- **Nowe podejrzenie (07.03.2026)**: **Limfocytarno-plazmocytarne zapalenie błony śluzowej nosa** — wymaga potwierdzenia biopsją
 - **Status**: Przewlekły, nawracający; Mycoplasma wyleczona (grudzień 2025), ale obecne **trwałe zmiany strukturalne**
 - **Lokalizacja**: Głównie lewe nozdrze (zwężenie wejścia, przebudowa małżowiny)
 
@@ -148,20 +159,26 @@ nav_order: 2
 - Malejąca skuteczność kolejnych kursów antybiotyków (skrócenie czasu remisji z ~5 miesięcy do 2 dni)
 - Nawroty mimo wyleczenia Mycoplasma — potwierdza, że głównym problemem są trwałe zmiany strukturalne
 
-**Aktualne leczenie:**
-- Rhinobiom (probiotyk do nosa) — modulacja mikrobioty nosowej
-- Flegamina (mukolityk) — rozrzedzenie śluzu
-- FloraBalance (probiotyk jelitowy) — wsparcie ogólne
+**Aktualne leczenie (stan na 17.03.2026):**
+- Mufluilrano 1 ml (inhalacja rano) — mukolityk
+- Nebbud 5 ml (inhalacja wieczorem) — nebulizacja
+- Fenylefryna (krople do nosa) — doraźnie
+- FloraBalance 1 kapsułka/dzień — probiotyk jelitowy
+- GenoMune 2 ml rano — immunostymulacja
 
 **Prognoza:**
-- Pełne wyleczenie mało prawdopodobne ze względu na trwałe zmiany strukturalne
+- Pełne wyleczenie mało prawdopodobne — choroba uznawana za **niewyleczalną** (potwierdzone przez pulmonologa 07.03.2026)
 - Cel: Kontrola objawów i zapobieganie zaostrzeniom
 - Możliwe opcje przy zaostrzeniach:
+  - **Convenia** w iniekcji (antybiotyk, działa 14 dni) — zalecenie pulmonologa
+  - **Zylexis** — terapia immunomodulacyjna (3 podania: dzień 1, 3, 10) — do rozważenia
+  - Doustna terapia przeciwalergiczna — u niektórych pacjentów przynosi poprawę
   - Okresowe płukanie jamy nosowej pod znieczuleniem (np. raz na 3-6 miesięcy)
   - Prednizolon w niskich dawkach (wymaga ostrożności ze względu na BISC i neutropenię)
   - Famcyklowir (antywirusowy) — jeśli potwierdzi się aktywna reaktywacja FHV-1
 
 **Luki diagnostyczne:**
+- **Biopsja błony śluzowej nosa** — potrzebna do potwierdzenia limfocytarno-plazmocytarnego zapalenia (zalecenie pulmonologa 07.03.2026)
 - FHV-1 PCR — nigdy nie wykonano; niskie prawdopodobieństwo wykrycia w przewlekłym przypadku, ale mogłoby potwierdzić etiologię
 
 ### 3. Zaburzenie Neurologiczne (Stabilne)

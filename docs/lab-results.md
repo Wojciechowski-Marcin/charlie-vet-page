@@ -158,6 +158,15 @@ nav_order: 5
 - **Prawe nozdrze**: Mniejsza ilość wydzieliny, brak obrzęku i przekrwienia
 - **Wniosek**: Przewlekła przebudowa struktur pozapalna, bez cech nowotworowych
 
+### USG Płuc (07.03.2026)
+*Źródło: [Konsultacja pulmonolog 07.03.2026](https://drive.google.com/file/d/1TXlHApK672I206nveed2OPiGllPiXIiM/view?usp=drivesdk)*
+
+- Obustronnie prawidłowy objaw ślizgania
+- Obustronnie prawidłowe artefakty linii A (tkanka płucna powietrzna)
+- Brak artefaktów pionowych
+- Linia opłucnej prawidłowa
+- **Wniosek**: Płuca prawidłowe, bez zmian patologicznych
+
 ### RTG Klatki Piersiowej (12.02.2026)
 *Źródło: [Opis USG i RTG 12.02.2026](https://drive.google.com/file/d/12Wt4RwfimBcPD0CNpXmM8MxuQlSCIRY4/view?usp=drivesdk)*
 

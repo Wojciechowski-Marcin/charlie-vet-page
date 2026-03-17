@@ -20,14 +20,14 @@ nav_order: 1
 {: .warning }
 > ⚠️ **WAŻNE OSTRZEŻENIE**
 >
-> **To podsumowanie zostało wygenerowane przez sztuczną inteligencję (AI) na podstawie 4 lat dokumentacji medycznej (październik 2022 - luty 2026).**
+> **To podsumowanie zostało wygenerowane przez sztuczną inteligencję (AI) na podstawie 4 lat dokumentacji medycznej (październik 2022 - marzec 2026).**
 >
 > - **Może zawierać błędy, nieścisłości lub pominięcia** — AI analizuje setki stron dokumentacji i może pomylić daty, wartości lub interpretacje
 > - **Nie zastępuje profesjonalnej oceny weterynaryjnej** — zawsze konsultuj decyzje medyczne z wykwalifikowanym lekarzem weterynarii
 > - **Jest narzędziem pomocniczym** — ma na celu ułatwienie dostępu do historii medycznej i wspieranie komunikacji z weterynarzami
 > - **Zawsze weryfikuj z oryginalnymi dokumentami** — w razie wątpliwości sprawdź źródłowe pliki PDF
 >
-> Ostatnia aktualizacja: **23 lutego 2026**
+> Ostatnia aktualizacja: **17 marca 2026**
 
 ---
 
@@ -53,18 +53,20 @@ nav_order: 1
 | # | Problem | Status | Priorytet | Ostatnia Aktualizacja |
 |---|---------|--------|-----------|----------------------|
 | 1 | **Rak In Situ Typu Bowenoidnego (BISC)** | Zdiagnozowany 27.01.2026; USG/RTG czyste (02.2026) — brak przerzutów; zalecenie: obserwacja + GenoMune | ŚREDNI → obserwacja | 17.02.2026 - Decyzja o strategii leczenia |
-| 2 | **Przewlekłe Zapalenie Zatok/Nosa (FICR)** | Mycoplasma wyleczona, trwałe zmiany strukturalne w lewym nozdrzu | ŚREDNI | 19.12.2025 - PCR ujemny |
+| 2 | **Przewlekłe Zapalenie Zatok/Nosa (FICR)** | Mycoplasma wyleczona; susp. limfocytarno-plazmocytarne zapalenie błony śluzowej nosa (07.03.2026); USG płuc prawidłowe | ŚREDNI | 07.03.2026 - Konsultacja pulmonolog |
 | 3 | **Zaburzenie Neurologiczne** | Klinicznie stabilne od 2023, łagodna resztkowa ataksja | Niski | Stabilny |
 | 4 | **Problemy Gastroenterologiczne (IBD + Hepatomegalia)** | IBD potwierdzone USG (02.2026), stłuszczenie wątroby | ŚREDNI | 12.02.2026 - USG |
 | 5 | **Przewlekła Leukopenia/Neutropenia** | Utrzymująca się, WBC 3,55 G/l (11.2025) | Niski/ŚREDNI | 27.11.2025 - Morfologia |
 
-**Aktywne działania (aktualizacja 21.02.2026):**
+**Aktywne działania (aktualizacja 07.03.2026):**
 - ✅ RTG/USG wykonane 12.02.2026 - **brak przerzutów**, narządy wewnętrzne bez zmian nowotworowych
 - ✅ Badanie FcaPV-2 - lekarz prowadzący zdecydował o rezygnacji (diagnoza kliniczna wystarczająca)
 - ✅ Waga wzrosła do **4,3 kg** (z 3,95 kg w 01.2026) - poprawa stanu odżywienia
+- ✅ Konsultacja pulmonologiczna (07.03.2026) - USG płuc prawidłowe; podejrzenie limfocytarno-plazmocytarnego zapalenia błony śluzowej nosa
 - **Obserwacja BISC** - kontrola za 1 miesiąc (marzec 2026), monitorowanie progresji zmian skórnych
 - **GenoMune (beta-glukan)** - suplementacja immunostymulująca: 2 ml/dzień (3 mies. suplementacja, 1 mies. przerwa)
-- **FICR (nos)** - nowa klinika Vivawet (21.02.2026): Neosynephrine krople + Nebbud inhalacje; skierowanie do pulmonologa dr Aleksandry Czumak
+- **FICR (nos)** - do rozważenia: terapia **Zylexis** (3 podania: dzień 1, 3, 10) + doustna terapia przeciwalergiczna; przy zaostrzeniach **Convenia** (iniekcja, działa 14 dni)
+- **Biopsja błony śluzowej nosa** - potrzebna do potwierdzenia rozpoznania limfocytarno-plazmocytarnego zapalenia
 - Rozważyć kontrolną morfologię po 4-6 tygodniach suplementacji GenoMune (ocena wpływu na neutropenię)
 
 **Wzajemne powiązania problemów — istotne dla planowania leczenia:**

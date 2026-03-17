@@ -17,6 +17,23 @@ nav_order: 4
 {:toc}
 
 ## Chronologiczna Historia Medyczna
+### Marzec 2026: Konsultacja Pulmonologiczna - Vivawet
+*Źródło: [Konsultacja pulmonolog 07.03.2026](https://drive.google.com/file/d/1TXlHApK672I206nveed2OPiGllPiXIiM/view?usp=drivesdk)*
+
+**Konsultacja pulmonologiczna u lek.wet. Aleksandry Czumak (07.03.2026):**
+Skierowanie od lek. wet. Natalii Szlęk w sprawie przewlekłego kataru.
+
+- **USG płuc**: Prawidłowe — brak zmian patologicznych
+- **Rozpoznanie**: Podejrzenie **limfocytarno-plazmocytarnego zapalenia błony śluzowej nosa** — choroba niewyleczalna
+- Do potwierdzenia potrzebna **biopsja z błony śluzowej jamy nosowej**
+- **Fenylefryna**: Zmiana z 2x/dzień na stosowanie doraźne (przewlekłe stosowanie wysusza śluzówkę)
+- **Nowe opcje terapeutyczne do rozważenia**:
+  - Zylexis — terapia immunomodulacyjna (3 podania: dzień 1, 3, 10)
+  - Doustna terapia przeciwalergiczna
+  - Convenia (iniekcja antybiotykowa, 14 dni) — przy zaostrzeniach
+
+---
+
 ### Luty 2026: Konsultacja w Nowej Klinice - Vivawet
 *Źródło: [Konsultacja Vivawet 21.02.2026](https://drive.google.com/file/d/1XtdVb2-n6FPDU6PZwoiK21tAfPXdPzUe/view?usp=drivesdk)*
 
@@ -33,8 +50,6 @@ Lekarz: (nie podano w dokumentacji)
 - **Nebbud 0,5** (nebulizacja): 1x dziennie
 - **Mufluilrano** (inhalacja): kontynuacja 1x dziennie
 - **Skierowanie do pulmonologa** dr Aleksandry Czumak
-
----
 
 ### Luty 2026: Badania Obrazowe - RTG i USG
 *Źródło: [Opis USG i RTG 12.02.2026](https://drive.google.com/file/d/12Wt4RwfimBcPD0CNpXmM8MxuQlSCIRY4/view?usp=drivesdk)*
@@ -819,7 +834,7 @@ Rozpoczęto kompleksowy program rehabilitacji domowej obejmujący:
 | NeoVet       | Wrocław     | Diagnostyka obrazowa, Kardiologia | lek. wet. Jan Lorenc, lek. wet. Karolina Kapturska    |
 | GoldenVet    | Wrocław     | Choroby wewnętrzne, Endoskopia    | lek. wet. Natalia Szlęk, lek. wet. Agnieszka Rudnicka |
 | Archivet     | Wrocław     | Laboratorium, Podstawowa opieka   | lek. wet. Marcin Gaweł                                |
-| Vivawet (Przychodnia Weterynaryjna Viva Pasikowska) | Wrocław | Podstawowa opieka | tel. 503 103 404; pierwsza wizyta 21.02.2026 |
+| Vivawet (Przychodnia Weterynaryjna Viva Pasikowska) | Wrocław | Podstawowa opieka, Pulmonologia | tel. 503 103 404; lek.wet. Aleksandra Czumak (pulmonolog); pierwsza wizyta 21.02.2026 |
 
 ---
 

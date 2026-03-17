@@ -63,7 +63,10 @@ nav_order: 6
 #### d) Echo/Kardiologia
 - [2024_11_25 - wyniki kardio - NeoVet.pdf](https://drive.google.com/file/d/15LP0Yy8Wbhjk4goRmE6J9AJBFUyOieDJ/view?usp=drivesdk)
 
-#### e) Endoskopia
+#### e) USG Płuc
+- [2026_03_07 - konsultacja pulmonolog - Vivawet.pdf](https://drive.google.com/file/d/1TXlHApK672I206nveed2OPiGllPiXIiM/view?usp=drivesdk) - USG płuc prawidłowe
+
+#### f) Endoskopia
 - [2024_11_29 - endoskopia.pdf](https://drive.google.com/file/d/1VEo_LOTZe93oXq_K-6P8_vy39q-wmFtX/view?usp=drivesdk) - Rynoskopia i bronchoskopia
 - [2025_12_16 - raport endoskopia.pdf](https://drive.google.com/file/d/1TTBRWY-vsmuw71NFM_yC1MSvzkDEkKPj/view?usp=drivesdk) - Rynoskopia kontrolna
 
@@ -146,6 +149,7 @@ nav_order: 6
 - [2025-12-29 - Kontrola po zabiegu](https://drive.google.com/file/d/1a9Jzw0eBVkj17FoAqpqbI30y3xQRq3DZ/view?usp=drivesdk) - Kontrola po endoskopii i usunięciu zmian skórnych
 - [2026-01-27 - Wyniki histopatologii](https://drive.google.com/file/d/1a9Jzw0eBVkj17FoAqpqbI30y3xQRq3DZ/view?usp=drivesdk) - Diagnoza: Rak in situ typu bowenoidnego
 - [2026-02-21 - Konsultacja Vivawet](https://drive.google.com/file/d/1XtdVb2-n6FPDU6PZwoiK21tAfPXdPzUe/view?usp=drivesdk) - Pierwsza wizyta; nowe leczenie nosa (Neosynephrine, Nebbud); waga 4,3 kg
+- [2026-03-07 - Konsultacja pulmonolog Vivawet](https://drive.google.com/file/d/1TXlHApK672I206nveed2OPiGllPiXIiM/view?usp=drivesdk) - USG płuc prawidłowe; susp. limfocytarno-plazmocytarne zapalenie bl. śluzowej nosa; Zylexis/Convenia do rozważenia
 
 ---
 
@@ -154,9 +158,9 @@ nav_order: 6
 
 | Pole | Wartość |
 |------|---------|
-| Ostatnia aktualizacja | 23 lutego 2026 |
-| Na podstawie dokumentacji z okresu | Październik 2022 - Luty 2026 |
-| Liczba dokumentów źródłowych | 61 plików PDF + 34 pliki markdown (95 dokumentów) |
+| Ostatnia aktualizacja | 17 marca 2026 |
+| Na podstawie dokumentacji z okresu | Październik 2022 - Marzec 2026 |
+| Liczba dokumentów źródłowych | 62 plików PDF + 34 pliki markdown (96 dokumentów) |
 
 
 ---
